@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="hero-section">
+  <h1>{{ page.title }}</h1>
+  <p>{{ site.description }}</p>
+  <a href="/about" class="btn">Learn More</a>
+</div>
+
+<div class="home-content">
+  {{ content }}
+  
+  <div class="row">
+    <div class="col-md-4 feature-box">
+      <h3>Our Mission</h3>
+      <p>Learn about our organization's mission and values that guide our work.</p>
+      <a href="/about" class="read-more">Read More →</a>
+    </div>
+    
+    <div class="col-md-4 feature-box">
+      <h3>Services</h3>
+      <p>Discover the various services we offer to our community and clients.</p>
+      <a href="/services" class="read-more">Read More →</a>
+    </div>
+    
+    <div class="col-md-4 feature-box">
+      <h3>Get In Touch</h3>
+      <p>Have questions or want to learn more? Reach out to our friendly team.</p>
+      <a href="/contact" class="read-more">Read More →</a>
+    </div>
+  </div>
+</div>
+
+{% if site.posts.size > 0 %}
+<div class="news-section">
+  <h2>Latest News</h2>
+  <ul class="post-list">
+    {% for post in site.posts limit:3 %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h3>
+      {{ post.excerpt }}
+    </li>
+    {% endfor %}
+  </ul>
+  <a href="/news" class="btn">View All News</a>
+</div>
+{% endif %}
