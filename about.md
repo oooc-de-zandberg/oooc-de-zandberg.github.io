@@ -1,33 +1,33 @@
 ---
 layout: page
-title: About
+title: Over
 permalink: /about/
 ---
 
-## About OOOC De Zandberg
+## Over OOOC De Zandberg
 
-OOOC De Zandberg is an organization dedicated to [your mission here]. Founded in [year], we have been serving the community by [your services and impact].
+OOOC De Zandberg is een organisatie die zich inzet voor [jouw missie hier]. Opgericht in [jaar], dienen wij de gemeenschap door [jouw diensten en impact].
 
-### Our Mission
+### Onze missie
 
-[Your mission statement]
+[Je missieverklaring]
 
-### Our Team
+### Ons team
 
-Meet the people who make our organization successful:
+Maak kennis met de mensen die onze organisatie tot een succes maken:
 
-- **Name** - Position
-- **Name** - Position
-- **Name** - Position
+- **Naam** - Functie
+- **Naam** - Functie
+- **Naam** - Functie
 
-### Our History
+### Onze geschiedenis
 
-[Brief history of the organization]
+[Korte geschiedenis van de organisatie]
 
-### Our Values
+### Onze waarden
 
-- Value 1
-- Value 2
-- Value 3
+- Waarde 1
+- Waarde 2
+- Waarde 3
 
-Feel free to [contact us](/contact) if you'd like to learn more about our organization or how you can get involved.
+Neem gerust [contact met ons op](/contact) als je meer wilt weten over onze organisatie of hoe je kunt bijdragen.

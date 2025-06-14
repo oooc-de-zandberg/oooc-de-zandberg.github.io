@@ -1,44 +1,44 @@
 ---
 layout: page
-title: Services
+title: Diensten
 permalink: /services/
 ---
 
-## Our Services
+## Onze diensten
 
-At OOOC De Zandberg, we offer a variety of services designed to [describe purpose]. Here's an overview of what we provide:
+Bij OOOC De Zandberg bieden we diverse diensten aan die gericht zijn op [beschrijf doel]. Hieronder vind je een overzicht van ons aanbod:
 
-### Service Category 1
+### Dienstencategorie 1
 
-- **Service Name**: Description of the service and its benefits.
-- **Service Name**: Description of the service and its benefits.
-- **Service Name**: Description of the service and its benefits.
+- **Naam dienst**: Beschrijving van de dienst en de voordelen.
+- **Naam dienst**: Beschrijving van de dienst en de voordelen.
+- **Naam dienst**: Beschrijving van de dienst en de voordelen.
 
-### Service Category 2
+### Dienstencategorie 2
 
-- **Service Name**: Description of the service and its benefits.
-- **Service Name**: Description of the service and its benefits.
-- **Service Name**: Description of the service and its benefits.
+- **Naam dienst**: Beschrijving van de dienst en de voordelen.
+- **Naam dienst**: Beschrijving van de dienst en de voordelen.
+- **Naam dienst**: Beschrijving van de dienst en de voordelen.
 
-### How to Access Our Services
+### Hoe maak je gebruik van onze diensten?
 
-Information about how to request or access services, including:
+Informatie over hoe je diensten kunt aanvragen of gebruiken, waaronder:
 
-- Eligibility requirements
-- Registration process
-- Contact information
-- Scheduling information
+- Toelatingsvoorwaarden
+- Registratieproces
+- Contactinformatie
+- Informatie over planning
 
-### Testimonials
+### Ervaringen
 
-> "Testimonial from a satisfied client." - Client Name
+> "Ervaring van een tevreden cliënt." - Naam cliënt
 
-> "Another testimonial from a satisfied client." - Client Name
+> "Nog een ervaring van een tevreden cliënt." - Naam cliënt
 
-### Service Rates
+### Tarieven
 
-Information about pricing or funding options, if applicable.
+Informatie over prijzen of financieringsmogelijkheden, indien van toepassing.
 
-## Request a Service
+## Dienst aanvragen
 
-For more information or to request a service, please [contact us](/contact).
+Voor meer informatie of om een dienst aan te vragen, kun je [contact met ons opnemen](/contact).

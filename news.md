@@ -1,28 +1,28 @@
 ---
 layout: page
-title: News
+title: Nieuws
 permalink: /news/
 ---
 
-## Latest News and Updates
+## Laatste nieuws en updates
 
-Stay up-to-date with the latest news, events, and announcements from OOOC De Zandberg.
+Blijf op de hoogte van het laatste nieuws, evenementen en aankondigingen van OOOC De Zandberg.
 
 <div class="news-section">
   <ul class="post-list">
     {% for post in site.posts %}
     <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta">{{ post.date | date: "%d-%m-%Y" }}</span>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h3>
       {{ post.excerpt }}
-      <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+      <a href="{{ post.url | relative_url }}" class="read-more">Lees meer →</a>
     </li>
     {% endfor %}
   </ul>
 </div>
 
-## Subscribe to Updates
+## Abonneer op updates
 
-To receive our newsletter with the latest updates, please [contact us](/contact) to be added to our mailing list.
+Wil je onze nieuwsbrief ontvangen met de laatste updates? Neem dan [contact met ons op](/contact) om je aan te melden voor onze mailinglijst.

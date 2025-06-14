@@ -4,30 +4,30 @@ title: Contact
 permalink: /contact/
 ---
 
-## Contact Us
+## Contact
 
-We'd love to hear from you! Please use the information below to get in touch with us.
+We horen graag van je! Gebruik onderstaande informatie om contact met ons op te nemen.
 
-### Address
+### Adres
 
 OOOC De Zandberg  
-[Street Address]  
-[City, Postal Code]  
-[Country]
+[Straatnaam en nummer]  
+[Plaats, postcode]  
+[Land]
 
-### Contact Information
+### Contactgegevens
 
-- **Phone:** [Phone number]
-- **Email:** [Email address]
-- **Hours:** [Operating hours]
+- **Telefoon:** [Telefoonnummer]
+- **E-mail:** [E-mailadres]
+- **Openingstijden:** [Openingstijden]
 
-### Send Us a Message
+### Stuur ons een bericht
 
-[Contact form or instructions for contacting]
+[Contactformulier of instructies voor contact]
 
-### Connect With Us
+### Volg ons
 
-Follow us on social media:
+Volg ons op sociale media:
 
 - [Facebook](https://facebook.com/)
 - [Twitter](https://twitter.com/)

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Welcome to Our New Website"
+title: "Welkom op onze nieuwe website"
 date: 2025-06-14
-categories: announcements
+categories: aankondigingen
 ---
 
-We're excited to announce the launch of our new website! Here, you'll be able to find information about our organization, services, and upcoming events.
+We zijn verheugd om de lancering van onze nieuwe website aan te kondigen! Hier vind je informatie over onze organisatie, diensten en aankomende evenementen.
 
-## What's New
+## Wat is er nieuw?
 
-- Modern design
-- Improved navigation
-- Updated content
-- Mobile-friendly layout
+- Modern ontwerp
+- Verbeterde navigatie
+- Vernieuwde inhoud
+- Mobielvriendelijke lay-out
 
-Stay tuned for more updates as we continue to enhance our online presence.
+Blijf op de hoogte voor meer updates terwijl we onze online aanwezigheid verder verbeteren.
 
-Feel free to [contact us](/contact) if you have any questions or feedback about the new site.
+Neem gerust [contact met ons op](/contact) als je vragen of feedback hebt over de nieuwe site.

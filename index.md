@@ -1,20 +1,20 @@
 ---
 layout: home
-title: Welcome to OOOC De Zandberg
+title: Welkom bij OOOC De Zandberg
 ---
 
-This is the home page for OOOC De Zandberg. You can customize this page with information about your organization, services, and mission.
+Dit is de startpagina van OOOC De Zandberg. Je kunt deze pagina aanpassen met informatie over je organisatie, diensten en missie.
 
-## About Us
+## Over ons
 
-OOOC De Zandberg is dedicated to [your mission statement here]. We strive to [your goals here].
+OOOC De Zandberg zet zich in voor [jouw missie hier]. Wij streven ernaar om [jouw doelen hier] te bereiken.
 
-## Our Services
+## Onze diensten
 
-- Service 1
-- Service 2
-- Service 3
+- Dienst 1
+- Dienst 2
+- Dienst 3
 
-## Contact Us
+## Contact
 
-Feel free to reach out to us at [contact information].
+Neem gerust contact met ons op via [contactgegevens].
