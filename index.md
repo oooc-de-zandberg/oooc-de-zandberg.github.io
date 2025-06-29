@@ -3,18 +3,11 @@ layout: home
 title: Welkom bij OOOC De Zandberg
 ---
 
-Dit is de startpagina van OOOC De Zandberg. Je kunt deze pagina aanpassen met informatie over je organisatie, diensten en missie.
+Soms hebben cliënten en aanmelders het gevoel het niet meer te weten. OOOC De Zandberg kijkt dan graag met hen mee hoe we de knoop kunnen ontwarren zodat ze weer verder kunnen.
 
-## Over ons
+Vanuit onze expertise gaan we aan de slag met kinderen, jongeren (0-21 jaar) en hun brede netwerk om via een kortdurende begeleiding te zoeken naar zorg op maat. We kijken met een extra bril even mee naar hun verhaal. We zoeken samen naar de betekenis van de problemen en mogelijke oplossingen die groei-en ontwikkelingskansen bieden. Wanneer het aangewezen blijkt begeleiden wij hen naar een aangepaste hulpverlening in samenwerking met anderen.
 
-OOOC De Zandberg zet zich in voor [jouw missie hier]. Wij streven ernaar om [jouw doelen hier] te bereiken.
+We werken interdisciplinair (met verschillende mensen / disciplines samen) aan een handelingsgericht diagnostisch proces om antwoorden te geven op hun vragen en een toekomstigtraject uit te stippelen. Dit kan zowel residentieel (met verblijf), ambulant/mobiel (aan huis) of voor een korte periode in crisis.
 
-## Onze diensten
-
-- Dienst 1
-- Dienst 2
-- Dienst 3
-
-## Contact
-
-Neem gerust contact met ons op via [contactgegevens].
+Wij engageren ons om in samenwerking met andere diensten, voorzieningen en sectoren een
+kwalitatieve Integrale Jeugdhulpverlening uit te bouwen.
