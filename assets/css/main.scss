@@ -82,7 +82,7 @@ a {
   
   p {
     font-size: 1.2em;
-    max-width: 700px;
+    max-width: 900px;
     margin: 0 auto 30px;
   }
 }
@@ -104,7 +104,7 @@ a {
 }
 
 // Responsive adjustments
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
   .hero-section {
     padding: 40px 0;
     

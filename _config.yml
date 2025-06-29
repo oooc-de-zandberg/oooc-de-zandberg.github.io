@@ -13,6 +13,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+facebook_username: ooocdezandberg
+
 # Exclude from processing
 exclude:
   - Gemfile
@@ -39,3 +41,13 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+
+header_pages:
+  - missie.md
+  - leefgroepwerking.md
+  - context.md
+  - professionelen.md
+  - werk-bij-ons.md
+  - partners.md
+  - steun-ons.md
+  - contact.md
