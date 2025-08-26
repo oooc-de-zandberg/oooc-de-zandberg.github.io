@@ -4,7 +4,7 @@ title: Steun Ons
 permalink: /steun-ons/
 ---
 
-### Help onze jongeren groeien – elke bijdrage telt
+## Help onze jongeren groeien – elke bijdrage telt
 
 Onze jongeren staan vandaag voor heel wat uitdagingen op hun weg naar volwassenheid. Onze werking zet zich dagelijks in om hen te ondersteunen in hun ontwikkeling. Onze dagelijkse werking wordt door de Vlaamse Overheid gesubsidieerd maar om extra activiteiten en bijzondere projecten mogelijk te maken, doen we ook beroep op de steun van sponsors en sympathisanten.
 
