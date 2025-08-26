@@ -36,7 +36,7 @@ Een opdracht of interview voor school? Dan kun je gerust via mail je vraag sture
 
 Ben je aangetrokken tot een (studenten)job in de jeugdzorg en heb je een groot hart voor kinderen, jongeren en hun contexten? Kom dan mee ons team versterken!
 
-Klik even door naar onze vacatures via de website van [de VDAB](https://www.vdab.be/) (website = [VDAB - Welkom](https://www.vdab.be/)).
+Klik even door naar onze vacatures via de website van [de VDAB](https://www.vdab.be/vindeenjob/vacatures?trefwoord=OOOC%20DE%20ZANDBERG&sort=standaard).
 
 Spontaan solliciteren kan ook steeds via <directie@zandberg.be>.
 
