@@ -17,8 +17,8 @@ Een cookie is een klein gegevenselement dat door een website in de webbrowser wo
 Als u ervoor kiest cookies uit te schakelen, kunt u dat voor de door u gebruikte browser doen:
 
 - [Microsoft Edge](https://support.microsoft.com/nl-nl/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d)
-- [Google Chrome](https://support.Google.com/Chrome/bin/answer.py?hl=nl&answer=95647)
-- [Firefox](https://support.mozilla.org/nl/KB/cookies-in-en-uitschakelen-websites-voorkeuren?redirectlocale=nl&redirectslug=cookies+in-+en+uitschakelen)
+- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=nl)
+- [Firefox](https://support.mozilla.org/nl/kb/cookies-en-websitegegevens-wissen-firefox)
 - [Safari](https://support.apple.com/kb/index?q=cookies&src=globalnav_support&type=organic&page=search&locale=en_GB)
 
 Hou er rekening mee dat het uitschakelen van cookies tot gevolg kan hebben dat bepaalde grafische elementen of toepassingen op de website minder goed werken. DE ZANDBERG doet alles wat nodig is om de goede werking van de website te garanderen. bepaalde elementen van de website vereisen het gebruik van cookies.
@@ -28,9 +28,11 @@ Hou er rekening mee dat het uitschakelen van cookies tot gevolg kan hebben dat b
 DE ZANDBERG maakt gebruik van verschillende soorten cookies:
 
 #### Noodzakelijke cookies
+
 Noodzakelijke of essentiële cookies zijn cookies die noodzakelijk zijn voor de werking van de website. Het is bijgevolg aangeraden om deze cookies niet uit te schakelen.
 
 #### Functionele cookies
+
 Dit zijn cookies die ervoor zorgen dat de website naar behoren functioneert. Voorbeelden hiervan zijn cookies voor:
 
 - het onthouden van uw login-gegevens
