@@ -5,6 +5,27 @@ permalink: /leefgroepwerking/groep-2
 ---
 
 Heb je vragen over onze werking? We geven de meest gestelde vragen al eens op een rijtje. Tijdens het traject staat de begeleiding voor je klaar en kan je bij hen terecht voor verdere vragen!
+
+- [Hoe kom je bij ons terecht?](#hoe-kom-je-bij-ons-terecht)
+- [Op welke manier kan je hulp krijgen vanuit De Zandberg?](#op-welke-manier-kan-je-hulp-krijgen-vanuit-de-zandberg)
+- [Wie werkt er allemaal in De Zandberg?](#wie-werkt-er-allemaal-in-de-zandberg)
+- [Hoelang blijf ik in De Zandberg?](#hoelang-blijf-ik-in-de-zandberg)
+- [Heb ik een eigen kamer?](#heb-ik-een-eigen-kamer)
+- [Wat breng ik mee als ik in De Zandberg moet verblijven?](#wat-breng-ik-mee-als-ik-in-de-zandberg-moet-verblijven)
+- [Hoe laat moet ik gaan slapen?](#hoe-laat-moet-ik-gaan-slapen)
+- [Hoe laat word ik wakker gemaakt?](#hoe-laat-word-ik-wakker-gemaakt)
+- [Hoe zit dat met bezoek?](#hoe-zit-dat-met-bezoek)
+- [Kan ik in het weekend naar huis?](#kan-ik-in-het-weekend-naar-huis)
+- [Krijg ik zakgeld?](#krijg-ik-zakgeld)
+- [Is er wifi in De Zandberg?](#is-er-wifi-in-de-zandberg)
+- [Mag ik roken/vapen?](#mag-ik-rokenvapen)
+- [Wat met mijn vuile was?](#wat-met-mijn-vuile-was)
+- [Kunnen we televisie en Netflix kijken?](#kunnen-we-televisie-en-netflix-kijken)
+- [Mag ik mijn gsm bijhouden?](#mag-ik-mijn-gsm-bijhouden)
+- [Wat kan ik allemaal doen bij jullie?](#wat-kan-ik-allemaal-doen-bij-jullie)
+- [Mogen er vrije uren gevraagd worden (op woensdag)?](#mogen-er-vrije-uren-gevraagd-worden-op-woensdag)
+- [Gaan de deuren van de kamer op slot?](#gaan-de-deuren-van-de-kamer-op-slot)
+- [Wat met mijn school? Ga ik naar school?](#wat-met-mijn-school-ga-ik-naar-school)
  
 ## Hoe kom je bij ons terecht?
 

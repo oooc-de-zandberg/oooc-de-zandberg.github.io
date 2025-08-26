@@ -4,7 +4,14 @@ title: Professionelen
 permalink: /professionelen/
 ---
 
-### Hulpverleningsaanbod en -visie
+- [Hulpverleningsaanbod en visie](#hulpverleningsaanbod-en-visie)
+- [Aanmelding?](#aanmelding)
+- [Rol van de aanmelder doorheen het diagnostisch traject?](#rol-van-de-aanmelder-doorheen-het-diagnostisch-traject)
+- [Financiële implicaties?](#financiële-implicaties)
+- [Contra-indicaties voor aanmelding bij ons centrum](#contra-indicaties-voor-aanmelding-bij-ons-centrum)
+- [Downloads](#downloads)
+
+### Hulpverleningsaanbod en visie
 
 De Zandberg kan terugblikken op een ruime ervaring in het adviseren en initiëren van (integrale) hulpverleningstrajecten in problematische leefsituaties. Ons diagnostisch proces wordt geïnspireerd door het protocol handelingsgerichte diagnostiek. We gebruiken daarbij verschillende actuele en wetenschappelijk gevalideerde denkkaders, methodieken en instrumenten.
 

@@ -4,6 +4,15 @@ title: Leefgroep 1
 permalink: /leefgroepwerking/groep-1
 ---
 
+- [Hoe kom je bij ons terecht?](#hoe-kom-je-bij-ons-terecht)
+- [Op welke manier kan je hulp krijgen bij De Zandberg?](#op-welke-manier-kan-je-hulp-krijgen-bij-de-zandberg)
+- [Wat gebeurt er in de leefgroep?](#wat-gebeurt-er-in-de-leefgroep)
+- [Hoe ziet onze leefgroep eruit?](#hoe-ziet-onze-leefgroep-eruit)
+- [Hulp voor je ouders (en andere belangrijke mensen)](#hulp-voor-je-ouders-en-andere-belangrijke-mensen)
+- [Gesprekken met de psycholoog](#gesprekken-met-de-psycholoog)
+- [Wat met school?](#wat-met-school)
+- [Hoe blijf je in contact met je ouders?](#hoe-blijf-je-in-contact-met-je-ouders)
+
 ## Hoe kom je bij ons terecht?
 
 Soms gaat het thuis even niet zo goed. Daarom kunnen jij en je ouders wat hulp krijgen van De Zandberg. In groep 1 helpen we **kinderen van 0 tot 12 jaar**, vanaf 3 jaar kan je ook voor even in onze leefgroep verblijven.
