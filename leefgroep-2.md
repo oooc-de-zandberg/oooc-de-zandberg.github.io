@@ -26,7 +26,7 @@ Heb je vragen over onze werking? We geven de meest gestelde vragen al eens op ee
 - [Mogen er vrije uren gevraagd worden (op woensdag)?](#mogen-er-vrije-uren-gevraagd-worden-op-woensdag)
 - [Gaan de deuren van de kamer op slot?](#gaan-de-deuren-van-de-kamer-op-slot)
 - [Wat met mijn school? Ga ik naar school?](#wat-met-mijn-school-ga-ik-naar-school)
- 
+
 ## Hoe kom je bij ons terecht?
 
 Jij en/of contextfiguren hebben hulp gevraagd, via een andere organisatie zoals het CLB, het CAW, een hulpverlener of de jeugdrechtbank. Wij helpen jou en je contextfiguren voor een kort periode.

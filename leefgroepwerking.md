@@ -6,8 +6,6 @@ permalink: /leefgroepwerking/
 
 - [Ons diagnostisch aanbod](#ons-diagnostisch-aanbod)
 - [Ons crisisaanbod](#ons-crisisaanbod)
-  - [Crisisopvang](#crisisopvang)
-  - [Crisisbegeleiding aan huis](#crisisbegeleiding-aan-huis)
 - [Onze werking verdeeld in twee (leef)groepen](#onze-werking-verdeeld-in-twee-leefgroepen)
 
 ## Ons diagnostisch aanbod
