@@ -45,7 +45,6 @@ defaults:
 header_pages:
   - missie.md
   - leefgroepwerking.md
-  - context.md
   - professionelen.md
   - werk-bij-ons.md
   - partners.md
