@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cookie Policy Ons
+title: Cookie Policy
 permalink: /cookies/
 ---
 
