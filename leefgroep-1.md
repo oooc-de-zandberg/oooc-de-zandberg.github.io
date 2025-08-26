@@ -74,10 +74,10 @@ Samen bekijken ze:
 
 Met toestemming van je ouders, praat de sociale dienst soms ook met andere mensen die jullie gezin al kennen (zoals een hulpverlener of school). Ze regelen ook praktische dingen zoals:
 
-- wanneer je op bezoek kan bij je ouders,
-- of je in het weekend naar huis gaat,
-- wie jou brengt of haalt,
-- en of je nog iets nodig hebt zoals kledij of materiaal.
+- Wanneer je op bezoek kan bij je ouders,
+- Of je in het weekend naar huis gaat,
+- Wie jou brengt of haalt,
+- En of je nog iets nodig hebt zoals kledij of materiaal.
 
 ## Gesprekken met de psycholoog
 
