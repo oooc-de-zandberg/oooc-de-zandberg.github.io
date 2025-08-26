@@ -12,21 +12,21 @@ We werken graag en veel samen!
 
 | Voorziening |  |
 |-------------|---------|
-| Binnenstad | [Website](www.binnenstad.be) |
-| CKG Sint Clara | [Website](www.ckgsintclara.be) |
-| De Kantel | [Website](www.dekantel.be) |
-| De Patio | [Website](www.depatiovzw.be) |
-| Nieuwland | [Website](www.nieuwland.be) |
-| De Zandberg | [Website](www.zandberg.be) |
-| Tronkestik | [Website](www.tronkestik.be) |
+| Binnenstad | [Website](https://www.binnenstad.be) |
+| CKG Sint Clara | [Website](https://www.ckgsintclara.be) |
+| De Kantel | [Website](https://www.dekantel.be) |
+| De Patio | [Website](https://www.depatiovzw.be) |
+| Nieuwland | [Website](https://www.nieuwland.be) |
+| De Zandberg | [Website](https://www.zandberg.be) |
+| Tronkestik | [Website](https://www.tronkestik.be) |
 
 ### Eén gezin één plan Noord-West-Vlaanderen
 
 ![Brugse voorzieningen](/assets/images/partners/één-gezin.png)
 
-[Website "Eén gezin één plan" Noord-West-Vlaanderen](www.1g1pnwvl.be)
+[Website "Eén gezin één plan" Noord-West-Vlaanderen](https://www.1g1pnwvl.be)
 
-[Website "Eén gezin één plan" nationaal](www.ééngezin-éénplan.be)
+[Website "Eén gezin één plan" nationaal](https://www.ééngezin-éénplan.be)
 
 ### Crisismeldpunt minderjarigen West-Vlaanderen (0 – 18j)
 
@@ -34,7 +34,7 @@ We werken graag en veel samen!
 
 [Website "CAW"](https://www.caw.be/locaties/crisismeldpunt-minderjarigen-west-vlaanderen/)
 
-### Hier kan je terecht voor meer informatie over:
+### Hier kan je terecht voor meer informatie over
 
 #### Jongerenrechten
 
