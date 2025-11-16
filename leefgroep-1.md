@@ -22,7 +22,6 @@ Hoe vaak je bij ons bent, kan verschillen.
 - Sommige kinderen blijven de hele week slapen.
 - Andere kinderen gaan in het weekend naar huis.
 - Soms komen we bij jou thuis of op school op bezoek.
-- En soms kom jij gewoon een keertje spelen of praten in onze groep.
 
 Je ouders hebben hulp gevraagd, via een andere organisatie zoals het CLB, het CAW, een hulpverlener of de jeugdrechtbank. Wij helpen jou en je ouders voor een tijdje.
 
@@ -34,7 +33,7 @@ Ben je via de jeugdrechter bij ons gekomen? Dan beslist die wat er verder moet g
 
 Er zijn verschillende manieren waarop we kunnen helpen:
 
-1. **Je woont gewoon thuis**, maar we spreken af om te praten of iets te doen – bij jou thuis, op school of bij ons. Dat noemen we ambulante of mobiele hulp. Deze hulp duurt meestal tussen de 45 dagen en 4 maanden (afhankelijk van de vragen).
+1. **Je woont gewoon thuis**, maar we spreken af om te praten of iets te doen – bij jou thuis of op school. Dat noemen we ambulante of mobiele hulp. Deze hulp duurt meestal tussen de 45 dagen en 4 maanden (afhankelijk van de vragen).
 2. **Je woont even bij ons in de leefgroep.** Dat noemen we residentiële hulp. Dit duurt minstens 3 maanden en soms wat langer als dat nodig is. Je ouders blijven betrokken en we doen veel samen. Op woensdagnamiddag mag er altijd een bezoek zijn en als het kan mag je ook elk weekend naar huis. In vakanties kan er ook meer naar huis worden gegaan als dit mogelijk is (zie verder).
 3. **Bij een crisis** – als er snel hulp nodig is – kan je voor een korte tijd bij ons komen verblijven of krijgen jullie hulp aan huis. Crisishulp is kort en duurt 28 dagen. Soms is het nodig dit te verlengen omdat er nog geen goede oplossing werd gevonden.
 
