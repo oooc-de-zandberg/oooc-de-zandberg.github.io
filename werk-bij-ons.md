@@ -8,6 +8,14 @@ Wil je mee onze werking versterken?
 
 Ontdek hieronder op welke manier je een meerwaarde kan betekenen voor onze werking.
 
+### Word jij onze nieuwe collega?
+
+Ben je aangetrokken tot een (studenten)job in de jeugdzorg en heb je een groot hart voor kinderen, jongeren en hun contexten? Kom dan mee ons team versterken!
+
+Klik even door naar onze vacatures via de website van [de VDAB](https://www.vdab.be/vindeenjob/vacatures?trefwoord=OOOC%20DE%20ZANDBERG&sort=standaard).
+
+Spontaan solliciteren kan ook steeds via <directie@zandberg.be>.
+
 ### Op zoek naar een leerrijke stageplaats in de jeugdhulp? Welkom bij ons team!
 
 Ben jij student in een sociale, pedagogische of orthopedagogische richting? Heb je een hart voor jongeren en wil je graag noden van cliënten goed begrijpen? Dan kan je bij ons een aanvraag tot stage doen.
@@ -31,14 +39,6 @@ Groep 2 (meisjes; 12- 21jaar):
 - stage in de sociale dienst: <sanne.ledure@zandberg.be>
 
 Een opdracht of interview voor school? Dan kun je gerust via mail je vraag sturen naar: [hannelore.cottenie@zandberg.be](mailto:hannelore.cottenie@zandberg.be).
-
-### Word jij onze nieuwe collega?
-
-Ben je aangetrokken tot een (studenten)job in de jeugdzorg en heb je een groot hart voor kinderen, jongeren en hun contexten? Kom dan mee ons team versterken!
-
-Klik even door naar onze vacatures via de website van [de VDAB](https://www.vdab.be/vindeenjob/vacatures?trefwoord=OOOC%20DE%20ZANDBERG&sort=standaard).
-
-Spontaan solliciteren kan ook steeds via <directie@zandberg.be>.
 
 ### Word vrijwilliger in onze werking – een klein gebaar, een groot verschil
 
