@@ -44,7 +44,7 @@ We werken graag en veel samen!
 
 #### Opgroeien
 
-![Opgroeien](/assets/images/partners/opgroeien.png)
+![Opgroeien](/assets/images/partners/opgroeien.jpg)
 
 [Website "Opgroeien"](https://www.opgroeien.be/)
 
