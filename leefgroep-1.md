@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leefgroep 1
-permalink: /leefgroepwerking/groep-1
+permalink: /ons-aanbod/groep-1
 ---
 
 - [Hoe kom je bij ons terecht?](#hoe-kom-je-bij-ons-terecht)

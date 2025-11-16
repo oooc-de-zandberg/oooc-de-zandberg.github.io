@@ -1,5 +1,5 @@
 # Site settings
-title: OOOC De Zandberg
+title: De Zandberg
 email: info@zandberg.be
 description: >-
   Gemaakt door Tom Kerkhove.
@@ -44,7 +44,7 @@ defaults:
 
 header_pages:
   - missie.md
-  - leefgroepwerking.md
+  - ons-aanbod.md
   - professionelen.md
   - werk-bij-ons.md
   - partners.md

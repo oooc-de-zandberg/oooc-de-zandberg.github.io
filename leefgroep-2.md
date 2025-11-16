@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leefgroep 2
-permalink: /leefgroepwerking/groep-2
+permalink: /ons-aanbod/groep-2
 ---
 
 Heb je vragen over onze werking? We geven de meest gestelde vragen al eens op een rijtje. Tijdens het traject staat de begeleiding voor je klaar en kan je bij hen terecht voor verdere vragen!
