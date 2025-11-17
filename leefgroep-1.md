@@ -63,17 +63,66 @@ Je krijgt een eigen dierensymbool. In de leefgroep vind je deze dieren ook terug
 
 De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder materiaal (zoals multimedia). Kinderen vanaf 11 jaar die een gsm hebben, mogen die meebrengen en gebruiken volgens de afspraken.
 
-|  OPSTAAN EN ONTBIJT | ![](/assets/images/dagindeling/ontbijt.png) |
-|  NAAR SCHOOL MET DE BUS<br/>SCHOOL | ![](/assets/images/dagindeling/bus.png) |
-|  ’S MIDDAGS BOTERHAMMEN OP SCHOOL | ![](/assets/images/dagindeling/boterhammen.png) |
-|  TERUG MET DE BUS NAAR DE ZANDBERG<br/> KOEK EN DRANKJE | ![](/assets/images/dagindeling/bus.png)![](/assets/images/dagindeling/vieruurtje.png) |
-|  VRIJE TIJD | ![](/assets/images/dagindeling/vrije-tijd.png) |
-|  HUISWERKMOMENT VANAF 1° LEERJAAR<br/>VRIJE TIJD | ![](/assets/images/dagindeling/vrije-tijd.png) |
-| WARM AVONDMAAL | ![](/assets/images/dagindeling/avondmaal.png) |
-| VRIJE TIJD | ![](/assets/images/dagindeling/vrije-tijd.png) |
-|  SNOEPMOMENTJE | ![](/assets/images/dagindeling/snoepmoment.png) |
-|  WASMOMENT | ![](/assets/images/dagindeling/wasmoment.png) |
-|  AANSLUITEND SLAPEN KLEUTERS<br/><br/> {::nomarkdown}<ul><li>20u00: SLAPEN 1° LEERJAAR – 7 JAAR</li><li>20u30 : SLAPEN 8 – 9 JAAR</li><li>21u00 : SLAPEN +10 JAAR</li></ul>{:/} | ![](/assets/images/dagindeling/slapen.png) |
+<details>
+
+<summary><b>Bekijk een schooldag in De Zandberg</b></summary>
+
+<p>Zo ziet een schooldag in De Zandberg er uit:</p>
+
+<table>
+  <tr>
+    <td>OPSTAAN EN ONTBIJT</td>
+    <td><img src="/assets/images/dagindeling/ontbijt.png" alt="Ontbijt"></td>
+  </tr>
+  <tr>
+    <td>NAAR SCHOOL MET DE BUS<br/>SCHOOL</td>
+    <td><img src="/assets/images/dagindeling/bus.png" alt="Bus naar school"></td>
+  </tr>
+  <tr>
+    <td>'S MIDDAGS BOTERHAMMEN OP SCHOOL</td>
+    <td><img src="/assets/images/dagindeling/boterhammen.png" alt="Boterhammen"></td>
+  </tr>
+  <tr>
+    <td>TERUG MET DE BUS NAAR DE ZANDBERG<br/>KOEK EN DRANKJE</td>
+    <td><img src="/assets/images/dagindeling/bus.png" alt="Bus terug"><img src="/assets/images/dagindeling/vieruurtje.png" alt="Vieruurtje"></td>
+  </tr>
+  <tr>
+    <td>VRIJE TIJD</td>
+    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd"></td>
+  </tr>
+  <tr>
+    <td>HUISWERKMOMENT VANAF 1° LEERJAAR<br/>VRIJE TIJD</td>
+    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd"></td>
+  </tr>
+  <tr>
+    <td>WARM AVONDMAAL</td>
+    <td><img src="/assets/images/dagindeling/avondmaal.png" alt="Avondmaal"></td>
+  </tr>
+  <tr>
+    <td>VRIJE TIJD</td>
+    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd"></td>
+  </tr>
+  <tr>
+    <td>SNOEPMOMENTJE</td>
+    <td><img src="/assets/images/dagindeling/snoepmoment.png" alt="Snoepmoment"></td>
+  </tr>
+  <tr>
+    <td>WASMOMENT</td>
+    <td><img src="/assets/images/dagindeling/wasmoment.png" alt="Wasmoment"></td>
+  </tr>
+  <tr>
+    <td>AANSLUITEND SLAPEN KLEUTERS<br/><br/>
+      <ul>
+        <li>20u00: SLAPEN 1° LEERJAAR – 7 JAAR</li>
+        <li>20u30: SLAPEN 8 – 9 JAAR</li>
+        <li>21u00: SLAPEN +10 JAAR</li>
+      </ul>
+    </td>
+    <td><img src="/assets/images/dagindeling/slapen.png" alt="Slapen"></td>
+  </tr>
+</table>
+
+</details>
 
 Op woensdagnamiddag doen we altijd een activiteit of een uitstap.
 
