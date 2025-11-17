@@ -1,0 +1,233 @@
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+{%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+
+<style>
+/* Dropdown navigation styles */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+}
+
+.dropdown-toggle:not(a) {
+  color: #111;
+  text-decoration: none;
+  pointer-events: auto;
+}
+
+.dropdown-toggle:not(a):hover {
+  color: #111;
+  text-decoration: none;
+}
+
+.dropdown-toggle::after {
+  content: " ▼";
+  font-size: 0.8em;
+  margin-left: 4px;
+  transition: transform 0.2s ease;
+}
+
+.dropdown:hover .dropdown-toggle::after {
+  transform: rotate(180deg);
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 280px;
+  box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.15);
+  z-index: 1000;
+  border: 1px solid #e1e1e1;
+  border-radius: 6px;
+  top: 100%;
+  left: 0;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.dropdown-content a {
+  color: #333333;
+  padding: 14px 18px;
+  text-decoration: none;
+  display: block;
+  white-space: nowrap;
+  border-bottom: 1px solid #f5f5f5;
+  transition: all 0.2s ease;
+}
+
+.dropdown-content a:last-child {
+  border-bottom: none;
+}
+
+.dropdown-content a:first-child {
+  border-radius: 6px 6px 0 0;
+}
+
+.dropdown-content a:last-child:not(.dropdown-submenu > a) {
+  border-radius: 0 0 6px 6px;
+}
+
+.dropdown-content a:hover {
+  background-color: #4a7bab;
+  color: white;
+  padding-left: 22px;
+}
+
+/* Submenu styles */
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu > a {
+  position: relative;
+}
+
+.dropdown-submenu > a::after {
+  content: " ►";
+  font-size: 0.8em;
+  float: right;
+  margin-top: 2px;
+  transition: transform 0.2s ease;
+}
+
+.dropdown-submenu > a:hover::after {
+  transform: translateX(3px);
+}
+
+.dropdown-submenu-content {
+  display: none;
+  position: absolute;
+  left: 100%;
+  top: -1px;
+  background-color: white;
+  min-width: 220px;
+  box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.15);
+  border: 1px solid #e1e1e1;
+  border-radius: 6px;
+  z-index: 1001;
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: all 0.3s ease;
+}
+
+.dropdown-submenu:hover .dropdown-submenu-content {
+  display: block;
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.dropdown-submenu-content a {
+  padding: 12px 16px;
+  border-bottom: 1px solid #f5f5f5;
+}
+
+.dropdown-submenu-content a:first-child {
+  border-radius: 6px 6px 0 0;
+}
+
+.dropdown-submenu-content a:last-child {
+  border-bottom: none;
+  border-radius: 0 0 6px 6px;
+}
+
+.dropdown-submenu-content a:hover {
+  background-color: #4a7bab;
+  color: white;
+  padding-left: 20px;
+}
+
+/* Mobile navigation adjustments */
+@media screen and (max-width: 600px) {
+  .dropdown-content,
+  .dropdown-submenu-content {
+    position: static;
+    display: block;
+    box-shadow: none;
+    border: none;
+    margin-left: 20px;
+    min-width: auto;
+  }
+  
+  .dropdown:hover .dropdown-content,
+  .dropdown-submenu:hover .dropdown-submenu-content {
+    display: block;
+  }
+  
+  .dropdown-toggle::after,
+  .dropdown-submenu > a::after {
+    display: none;
+  }
+}
+</style>
+
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {%- if titles_size > 0 -%}
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.548c0,0.819-0.665,1.484-1.484,1.484 H1.484C0.665,15.031,0,14.366,0,13.548l0,0c0-0.819,0.665-1.483,1.484-1.483h15.032C17.335,12.065,18,12.73,18,13.548L18,13.548z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          {%- for path in page_paths -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- if my_page.title -%}
+              {%- if my_page.title == "Ons Aanbod" -%}
+                <div class="dropdown">
+                  <span class="page-link dropdown-toggle">
+                    {{ my_page.title | escape }}
+                  </span>
+                  <div class="dropdown-content">
+                    <a href="{{ '/ons-aanbod/diagnostisch/' | relative_url }}">Ons diagnostisch aanbod</a>
+                    <a href="{{ '/ons-aanbod/crisis/' | relative_url }}">Ons crisisaanbod</a>
+                    <div class="dropdown-submenu">
+                      <a href="{{ '/ons-aanbod/leefgroepen/' | relative_url }}">Onze werking verdeeld in twee (leef)groepen</a>
+                      <div class="dropdown-submenu-content">
+                        <a href="{{ '/ons-aanbod/groep-1' | relative_url }}">Groep 1</a>
+                        <a href="{{ '/ons-aanbod/groep-2' | relative_url }}">Groep 2</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              {%- elsif my_page.title == "Werk bij Ons" -%}
+                <div class="dropdown">
+                  <span class="page-link dropdown-toggle">
+                    {{ my_page.title | escape }}
+                  </span>
+                  <div class="dropdown-content">
+                    <a href="{{ '/werk-bij-ons/nieuwe-collega/' | relative_url }}">Word jij onze nieuwe collega?</a>
+                    <a href="{{ '/werk-bij-ons/kom-op-stage/' | relative_url }}">Kom op stage</a>
+                    <a href="{{ '/werk-bij-ons/word-vrijwilliger/' | relative_url }}">Word vrijwilliger in onze werking</a>
+                  </div>
+                </div>
+              {%- else -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- endif -%}
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>
