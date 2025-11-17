@@ -63,6 +63,18 @@ Je krijgt een eigen dierensymbool. In de leefgroep vind je deze dieren ook terug
 
 De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder materiaal (zoals multimedia). Kinderen vanaf 11 jaar die een gsm hebben, mogen die meebrengen en gebruiken volgens de afspraken.
 
+|  OPSTAAN EN ONTBIJT | ![](/assets/images/dagindeling/ontbijt.png) |
+|  NAAR SCHOOL MET DE BUS<br/>SCHOOL | ![](/assets/images/dagindeling/bus.png) |
+|  ’S MIDDAGS BOTERHAMMEN OP SCHOOL | ![](/assets/images/dagindeling/boterhammen.png) |
+|  TERUG MET DE BUS NAAR DE ZANDBERG<br/> KOEK EN DRANKJE | ![](/assets/images/dagindeling/bus.png)![](/assets/images/dagindeling/vieruurtje.png) |
+|  VRIJE TIJD | ![](/assets/images/dagindeling/vrije-tijd.png) |
+|  HUISWERKMOMENT VANAF 1° LEERJAAR<br/>VRIJE TIJD | ![](/assets/images/dagindeling/vrije-tijd.png) |
+| WARM AVONDMAAL | ![](/assets/images/dagindeling/avondmaal.png) |
+| VRIJE TIJD | ![](/assets/images/dagindeling/vrije-tijd.png) |
+|  SNOEPMOMENTJE | ![](/assets/images/dagindeling/snoepmoment.png) |
+|  WASMOMENT | ![](/assets/images/dagindeling/wasmoment.png) |
+|  AANSLUITEND SLAPEN KLEUTERS<br/><br/> {::nomarkdown}<ul><li>20u00: SLAPEN 1° LEERJAAR – 7 JAAR</li><li>20u30 : SLAPEN 8 – 9 JAAR</li><li>21u00 : SLAPEN +10 JAAR</li></ul>{:/} | ![](/assets/images/dagindeling/slapen.png) |
+
 Op woensdagnamiddag doen we altijd een activiteit of een uitstap.
 
 Sommige kinderen gaan in het weekend niet naar huis: dan is er veel vrije tijd en af en toe ook een activiteit of uitstapje. Op zondag maken we soms zelf het middageten klaar met de begeleider.
