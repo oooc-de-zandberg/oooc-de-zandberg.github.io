@@ -164,8 +164,8 @@ body {
       width: 100%;
       
       &:hover {
-        background: rgba(74, 123, 171, 0.08);
-        color: #333;
+        background: $primary-color;
+        color: #fff;
       }
       
       .arrow {
@@ -213,7 +213,8 @@ body {
       text-align: left;
       
       &:hover {
-        background: rgba(74, 123, 171, 0.08);
+        background: $primary-color;
+        color: #fff;
       }
       
       &:last-child {
@@ -242,7 +243,7 @@ body {
     
     &:hover,
     &:focus {
-      background: rgba(74, 123, 171, 0.08);
+      background: #e8e8e8;
     }
   }
   
