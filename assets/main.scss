@@ -274,11 +274,11 @@ body {
     border-radius: 5px;
     
     .trigger {
-      display: none;
+      display: none !important;
     }
     
     .nav-trigger-container {
-      display: block;
+      display: none !important;
     }
     
     label[for="nav-trigger"] {
