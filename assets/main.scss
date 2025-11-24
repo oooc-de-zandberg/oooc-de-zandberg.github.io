@@ -1,0 +1,357 @@
+---
+---
+
+@import "minima";
+
+// Your custom styles below this line
+
+// Custom colors
+$primary-color: #4a7bab;
+$secondary-color: #f8f9fa;
+$accent-color: #e94e31;
+$text-color: #333333;
+
+// Override theme defaults
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: $text-color;
+  line-height: 1.6;
+}
+
+.site-header {
+  border-top: 5px solid $primary-color;
+  border-bottom: 1px solid $secondary-color;
+  background-color: white;
+}
+
+.post-title, 
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  color: $primary-color;
+}
+
+.btn {
+  display: inline-block;
+  padding: 8px 20px;
+  background-color: $primary-color;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  
+  &:hover {
+    background-color: darken($primary-color, 10%);
+    color: white;
+  }
+}
+
+.site-footer {
+  border-top: 1px solid $secondary-color;
+  background-color: #f8f9fa;
+  padding: 30px 0;
+}
+
+// Custom components removed - hero section caused unintended banner effect
+
+.feature-box {
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  }
+  
+  h3 {
+    color: $primary-color;
+  }
+}
+
+// Responsive adjustments
+@media screen and (max-width: 900px) {
+  // Removed hero section responsive styles
+}
+
+// Navigation (new button-based dropdown + two-pane)
+.site-nav {
+  // Override Minima defaults for custom nav structure
+  .trigger {
+    display: block !important;
+  }
+  
+  .nav-trigger-container {
+    display: block;
+  }
+  
+  .nav-primary {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .nav-item {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+  }
+  
+  .page-link {
+    line-height: 1.5;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 0 !important;
+    
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  
+  .dd-btn {
+    background: none;
+    border: none;
+    padding: 5px 10px;
+    font: inherit;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    line-height: 1.5;
+    
+    &:hover,
+    &:focus {
+      background: rgba(74, 123, 171, 0.08);
+      text-decoration: none;
+    }
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    min-width: 240px;
+    background: #fff;
+    border: 1px solid #e1e5e9;
+    border-radius: 8px;
+    padding: 4px 0;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    
+    a,
+    .submenu-btn {
+      display: block;
+      text-decoration: none;
+      color: #333;
+      font-size: 14px;
+      padding: 10px 16px;
+      border: none;
+      background: none;
+      text-align: left;
+      cursor: pointer;
+      line-height: 1.4;
+      
+      &:hover {
+        background: $primary-color;
+        color: #fff;
+      }
+    }
+    
+    .submenu-btn {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-radius: 0;
+      
+      &:hover {
+        background: rgba(74, 123, 171, 0.08);
+        color: #333;
+      }
+      
+      .arrow {
+        font-size: 11px;
+        opacity: 0.6;
+        transition: transform 0.2s ease;
+      }
+      
+      &[aria-expanded="true"] .arrow {
+        transform: translateX(4px);
+      }
+    }
+  }
+  
+  .secondary-pane {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    min-width: 160px;
+    background: #fff;
+    border: 1px solid #e1e5e9;
+    border-radius: 8px;
+    padding: 0;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    animation: slideX 0.18s ease;
+    z-index: 1001;
+    
+    h4 {
+      margin: 0;
+      padding: 10px 12px 8px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: #64748b;
+      font-weight: 600;
+      border-bottom: 1px solid #e8e8e8;
+    }
+    
+    a {
+      display: block;
+      padding: 10px 12px;
+      font-size: 14px;
+      text-decoration: none;
+      color: #333;
+      text-align: left;
+      
+      &:hover {
+        background: rgba(74, 123, 171, 0.08);
+      }
+      
+      &:last-child {
+        padding-bottom: 12px;
+      }
+    }
+  }
+  
+  .pane-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 4px;
+  }
+  
+  .pane-close {
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    color: #64748b;
+    padding: 10px 12px 8px;
+    border-radius: 0;
+    line-height: 1;
+    
+    &:hover,
+    &:focus {
+      background: rgba(74, 123, 171, 0.08);
+    }
+  }
+  
+  .hidden {
+    display: none !important;
+  }
+  
+  @keyframes slideX {
+    from {
+      opacity: 0;
+      transform: translateX(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+}
+
+// Mobile adjustments
+@media screen and (max-width: 600px) {
+  .site-nav {
+    // Override Minima's mobile positioning
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: #fdfdfd;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    
+    .trigger {
+      display: none;
+    }
+    
+    .nav-trigger-container {
+      display: block;
+    }
+    
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+    
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+    }
+    
+    .nav-trigger:checked ~ .trigger {
+      display: block !important;
+      padding-bottom: 5px;
+      
+      .nav-trigger-container {
+        display: block;
+      }
+      
+      .nav-primary {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 4px;
+        width: 100%;
+      }
+      
+      .nav-item {
+        width: 100%;
+        margin-left: 20px;
+      }
+      
+      .page-link,
+      .dd-btn {
+        display: block;
+        width: 100%;
+        text-align: left;
+        padding: 5px 10px;
+        margin-right: 0 !important;
+      }
+      
+      .dd-btn {
+        justify-content: flex-start;
+      }
+      
+      .dropdown-menu,
+      .secondary-pane {
+        position: static;
+        width: 100%;
+        box-shadow: none;
+        border: 1px solid #e7ecef;
+        margin-top: 4px;
+        margin-left: 0;
+      }
+      
+      .secondary-pane {
+        animation: none;
+      }
+    }
+  }
+}

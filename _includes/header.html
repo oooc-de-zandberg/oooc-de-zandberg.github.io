@@ -2,176 +2,6 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
-<style>
-/* Dropdown navigation styles */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-toggle {
-  cursor: pointer;
-}
-
-.dropdown-toggle:not(a) {
-  color: #111;
-  text-decoration: none;
-  pointer-events: auto;
-}
-
-.dropdown-toggle:not(a):hover {
-  color: #111;
-  text-decoration: none;
-}
-
-.dropdown-toggle::after {
-  content: " ▼";
-  font-size: 0.8em;
-  margin-left: 4px;
-  transition: transform 0.2s ease;
-}
-
-.dropdown:hover .dropdown-toggle::after {
-  transform: rotate(180deg);
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: white;
-  min-width: 280px;
-  box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.15);
-  z-index: 1000;
-  border: 1px solid #e1e1e1;
-  border-radius: 6px;
-  top: 100%;
-  left: 0;
-  opacity: 0;
-  transform: translateY(-10px);
-  transition: all 0.3s ease;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-  opacity: 1;
-  transform: translateY(0);
-}
-
-.dropdown-content a {
-  color: #333333;
-  padding: 14px 18px;
-  text-decoration: none;
-  display: block;
-  white-space: nowrap;
-  border-bottom: 1px solid #f5f5f5;
-  transition: all 0.2s ease;
-}
-
-.dropdown-content a:last-child {
-  border-bottom: none;
-}
-
-.dropdown-content a:first-child {
-  border-radius: 6px 6px 0 0;
-}
-
-.dropdown-content a:last-child:not(.dropdown-submenu > a) {
-  border-radius: 0 0 6px 6px;
-}
-
-.dropdown-content a:hover {
-  background-color: #4a7bab;
-  color: white;
-  padding-left: 22px;
-}
-
-/* Submenu styles */
-.dropdown-submenu {
-  position: relative;
-}
-
-.dropdown-submenu > a {
-  position: relative;
-}
-
-.dropdown-submenu > a::after {
-  content: " ►";
-  font-size: 0.8em;
-  float: right;
-  margin-top: 2px;
-  transition: transform 0.2s ease;
-}
-
-.dropdown-submenu > a:hover::after {
-  transform: translateX(3px);
-}
-
-.dropdown-submenu-content {
-  display: none;
-  position: absolute;
-  left: 100%;
-  top: -1px;
-  background-color: white;
-  min-width: 220px;
-  box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.15);
-  border: 1px solid #e1e1e1;
-  border-radius: 6px;
-  z-index: 1001;
-  opacity: 0;
-  transform: translateX(-10px);
-  transition: all 0.3s ease;
-}
-
-.dropdown-submenu:hover .dropdown-submenu-content {
-  display: block;
-  opacity: 1;
-  transform: translateX(0);
-}
-
-.dropdown-submenu-content a {
-  padding: 12px 16px;
-  border-bottom: 1px solid #f5f5f5;
-}
-
-.dropdown-submenu-content a:first-child {
-  border-radius: 6px 6px 0 0;
-}
-
-.dropdown-submenu-content a:last-child {
-  border-bottom: none;
-  border-radius: 0 0 6px 6px;
-}
-
-.dropdown-submenu-content a:hover {
-  background-color: #4a7bab;
-  color: white;
-  padding-left: 20px;
-}
-
-/* Mobile navigation adjustments */
-@media screen and (max-width: 600px) {
-  .dropdown-content,
-  .dropdown-submenu-content {
-    position: static;
-    display: block;
-    box-shadow: none;
-    border: none;
-    margin-left: 20px;
-    min-width: auto;
-  }
-  
-  .dropdown:hover .dropdown-content,
-  .dropdown-submenu:hover .dropdown-submenu-content {
-    display: block;
-  }
-  
-  .dropdown-toggle::after,
-  .dropdown-submenu > a::after {
-    display: none;
-  }
-}
-</style>
-
 <header class="site-header" role="banner">
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
@@ -189,43 +19,40 @@
           </span>
         </label>
 
-        <div class="trigger">
+        <div class="trigger nav-trigger-container">
+          <ul class="nav-primary" role="menubar">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
               {%- if my_page.title == "Ons Aanbod" -%}
-                <div class="dropdown">
-                  <span class="page-link dropdown-toggle">
-                    {{ my_page.title | escape }}
-                  </span>
-                  <div class="dropdown-content">
-                    <a href="{{ '/ons-aanbod/diagnostisch/' | relative_url }}">Ons diagnostisch aanbod</a>
-                    <a href="{{ '/ons-aanbod/crisis/' | relative_url }}">Ons crisisaanbod</a>
-                    <div class="dropdown-submenu">
-                      <a href="{{ '/ons-aanbod/leefgroepen/' | relative_url }}">Onze werking verdeeld in twee (leef)groepen</a>
-                      <div class="dropdown-submenu-content">
-                        <a href="{{ '/ons-aanbod/groep-1' | relative_url }}">Groep 1</a>
-                        <a href="{{ '/ons-aanbod/groep-2' | relative_url }}">Groep 2</a>
-                      </div>
-                    </div>
+                <li class="nav-item has-secondary" role="none">
+                  <button class="dd-btn" data-menu="aanbod" aria-haspopup="true" aria-expanded="false" role="menuitem">{{ my_page.title | escape }}</button>
+                  <div class="dropdown-menu hidden" id="menu-aanbod" role="group" aria-label="Ons Aanbod">
+                    <button class="secondary-trigger submenu-btn" data-secondary="leefgroepen" aria-haspopup="true" aria-expanded="false">Leefgroepen <span class="arrow" aria-hidden="true">►</span></button>
+                    <a href="{{ '/ons-aanbod/diagnostisch/' | relative_url }}" role="menuitem">Ons diagnostisch aanbod</a>
+                    <a href="{{ '/ons-aanbod/crisis/' | relative_url }}" role="menuitem">Ons crisisaanbod</a>
                   </div>
-                </div>
+                  <div class="secondary-pane hidden" id="secondary-leefgroepen" aria-label="Leefgroepen">
+                    <div class="pane-header"><h4>Leefgroepen</h4><button class="pane-close" data-close-pane>✕</button></div>
+                    <a href="{{ '/ons-aanbod/groep-1' | relative_url }}" role="menuitem">Groep 1</a>
+                    <a href="{{ '/ons-aanbod/groep-2' | relative_url }}" role="menuitem">Groep 2</a>
+                  </div>
+                </li>
               {%- elsif my_page.title == "Werk bij Ons" -%}
-                <div class="dropdown">
-                  <span class="page-link dropdown-toggle">
-                    {{ my_page.title | escape }}
-                  </span>
-                  <div class="dropdown-content">
-                    <a href="{{ '/werk-bij-ons/nieuwe-collega/' | relative_url }}">Word jij onze nieuwe collega?</a>
-                    <a href="{{ '/werk-bij-ons/kom-op-stage/' | relative_url }}">Kom op stage</a>
-                    <a href="{{ '/werk-bij-ons/word-vrijwilliger/' | relative_url }}">Word vrijwilliger in onze werking</a>
+                <li class="nav-item" role="none">
+                  <button class="dd-btn" data-menu="werk" aria-haspopup="true" aria-expanded="false" role="menuitem">{{ my_page.title | escape }}</button>
+                  <div class="dropdown-menu hidden" id="menu-werk" role="group" aria-label="Werk bij Ons">
+                    <a href="{{ '/werk-bij-ons/nieuwe-collega/' | relative_url }}" role="menuitem">Word jij onze nieuwe collega?</a>
+                    <a href="{{ '/werk-bij-ons/kom-op-stage/' | relative_url }}" role="menuitem">Kom op stage</a>
+                    <a href="{{ '/werk-bij-ons/word-vrijwilliger/' | relative_url }}" role="menuitem">Word vrijwilliger in onze werking</a>
                   </div>
-                </div>
+                </li>
               {%- else -%}
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                <li class="nav-item" role="none"><a class="page-link" href="{{ my_page.url | relative_url }}" role="menuitem">{{ my_page.title | escape }}</a></li>
               {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
+          </ul>
         </div>
       </nav>
     {%- endif -%}
