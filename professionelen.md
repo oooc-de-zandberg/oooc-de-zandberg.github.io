@@ -33,7 +33,7 @@ Soms loopt de spanning zo hoog op dat een gezin of jongere tijdelijk ondersteuni
 
 ## Aanmelding?
 
-Gezien het OOOC inzetbaar is voor verschillende diagnostische vragen en -problematieken en in verschillende fases van de trajecten van minderjaren zijn **onze aanmelders zeer divers**. Aanmelden kan door de brede instroom (CLB, revalidatiecentrum, CGGZ, kind en gezin, …), als door een gemandateerde voorziening (Ondersteuningscentrum Jeugdhulp en Vertrouwenscentrum Kindermishandeling) of door de Sociale Dienst van een Jeugdrechtbank.
+Gezien het OOOC inzetbaar is voor verschillende diagnostische vragen en -problematieken en in verschillende fases van de trajecten van minderjaren zijn **onze aanmelders zeer divers**. Aanmelden kan door de brede instroom (CLB, Centrum Ambulante Revalidatie, CGGZ, kind en gezin, …), als door een gemandateerde voorziening (Ondersteuningscentrum Jeugdhulp en Vertrouwenscentrum Kindermishandeling) of door de Sociale Dienst van een Jeugdrechtbank.
 
 Onze ambulante handelingsgerichte diagnostiek is rechtstreeks toegankelijk. Voor aanmeldingen kan je contact opnemen met ons centrum.
 
@@ -58,7 +58,7 @@ Crisishulp is ook kosteloos voor de betrokkenen.
 
 - Een duidelijk uitgesproken verslavingsproblematiek.
 - Een duidelijke psychiatrische problematiek waarbij een opname in de kinder- en jeugdpsychiatrie is aangewezen.
-- Ernstige mentale, motorische of zintuiglijke handicaps waardoor de veiligheid van medebewoners en begeleiders in het OOOC in het gedrang komt en waarbij een duidelijke begrenzende aanpak nodig is die meer structurerend is dan wat een OOOC kan bieden.
+- Ernstige mentale, motorische of zintuiglijke beperking waardoor de veiligheid van medebewoners en begeleiders in het OOOC in het gedrang komt en waarbij een duidelijke begrenzende aanpak nodig is die meer structurerend is dan wat een OOOC kan bieden.
 
 ## Downloads
 

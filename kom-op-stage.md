@@ -8,7 +8,7 @@ permalink: /werk-bij-ons/kom-op-stage/
 
 Ben jij student in een sociale, pedagogische of orthopedagogische richting? Heb je een hart voor jongeren en wil je graag noden van cliënten goed begrijpen? Dan kan je bij ons een aanvraag tot stage doen.
 
-Of je nu liever meedraait in de leefgroep, je wil verdiepen in contextbegeleiding, individueel psychologische werk of je stage eerder focust op administratie of logistiek werk. We bekijken samen wat het best past bij jouw leerdoelen én bij onze werking.
+Of je nu liever meedraait in de leefgroep, je wil verdiepen in contextbegeleiding, individueel psychologische werk of je stage eerder focust op administratief of logistiek werk. We bekijken samen wat het best past bij jouw leerdoelen én bij onze werking.
 
 Interesse? Stuur ons gerust een mailtje met wat meer info over jezelf, je opleiding en wat je zoekt in een stage.
 
