@@ -2,6 +2,7 @@
   const primaryButtons = document.querySelectorAll('.dd-btn');
   let openMenu = null;
   let openPane = null;
+  let hoverTimeout = null;
 
   function closePane(){
     if(openPane){
@@ -20,18 +21,41 @@
       if(openMenu === menu) openMenu = null;
     }
   }
+  
+  function openMenuForButton(btn, focusFirst = false){
+    const menu = document.getElementById('menu-' + btn.dataset.menu);
+    if(openMenu && openMenu !== menu) closeMenu(openMenu);
+    menu.classList.remove('hidden');
+    btn.setAttribute('aria-expanded','true');
+    openMenu = menu;
+    if(focusFirst){
+      const focusable = menu.querySelector('button.secondary-trigger, a');
+      if(focusable) focusable.focus();
+    }
+  }
 
   primaryButtons.forEach(btn => {
+    const navItem = btn.closest('.nav-item');
+    
+    // Hover support
+    navItem.addEventListener('mouseenter', () => {
+      if(hoverTimeout) clearTimeout(hoverTimeout);
+      openMenuForButton(btn, false);
+    });
+    
+    navItem.addEventListener('mouseleave', () => {
+      const menu = document.getElementById('menu-' + btn.dataset.menu);
+      hoverTimeout = setTimeout(() => {
+        closeMenu(menu);
+      }, 150);
+    });
+    
+    // Click support (for touch devices and accessibility)
     btn.addEventListener('click', () => {
       const menu = document.getElementById('menu-' + btn.dataset.menu);
       const expanded = btn.getAttribute('aria-expanded') === 'true';
-      if(openMenu && openMenu !== menu) closeMenu(openMenu);
       if(!expanded){
-        menu.classList.remove('hidden');
-        btn.setAttribute('aria-expanded','true');
-        openMenu = menu;
-        const focusable = menu.querySelector('button.secondary-trigger, a');
-        if(focusable) focusable.focus();
+        openMenuForButton(btn, true);
       } else {
         closeMenu(menu);
         btn.focus();
