@@ -16,10 +16,10 @@ Een cookie is een klein gegevenselement dat door een website in de webbrowser wo
 
 Als u ervoor kiest cookies uit te schakelen, kunt u dat voor de door u gebruikte browser doen:
 
-- [Microsoft Edge](https://support.microsoft.com/nl-nl/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d)
-- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=nl)
-- [Firefox](https://support.mozilla.org/nl/kb/cookies-en-websitegegevens-wissen-firefox)
-- [Safari](https://support.apple.com/kb/index?q=cookies&src=globalnav_support&type=organic&page=search&locale=en_GB)
+- [Microsoft Edge](https://support.microsoft.com/nl-nl/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d){:target="_blank" rel="noopener noreferrer"}
+- [Google Chrome](https://support.google.com/chrome/answer/95647?hl=nl){:target="_blank" rel="noopener noreferrer"}
+- [Firefox](https://support.mozilla.org/nl/kb/cookies-en-websitegegevens-wissen-firefox){:target="_blank" rel="noopener noreferrer"}
+- [Safari](https://support.apple.com/kb/index?q=cookies&src=globalnav_support&type=organic&page=search&locale=en_GB){:target="_blank" rel="noopener noreferrer"}
 
 Hou er rekening mee dat het uitschakelen van cookies tot gevolg kan hebben dat bepaalde grafische elementen of toepassingen op de website minder goed werken. DE ZANDBERG doet alles wat nodig is om de goede werking van de website te garanderen. bepaalde elementen van de website vereisen het gebruik van cookies.
 
