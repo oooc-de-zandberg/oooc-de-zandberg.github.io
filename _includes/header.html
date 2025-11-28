@@ -25,17 +25,12 @@
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
               {%- if my_page.title == "Ons Aanbod" -%}
-                <li class="nav-item has-secondary" role="none">
+                <li class="nav-item" role="none">
                   <button class="dd-btn" data-menu="aanbod" aria-haspopup="true" aria-expanded="false" role="menuitem">{{ my_page.title | escape }}</button>
                   <div class="dropdown-menu hidden" id="menu-aanbod" role="group" aria-label="Ons Aanbod">
-                    <button class="secondary-trigger submenu-btn" data-secondary="leefgroepen" aria-haspopup="true" aria-expanded="false">Leefgroepen <span class="arrow" aria-hidden="true">►</span></button>
-                    <a href="{{ '/ons-aanbod/diagnostisch/' | relative_url }}" role="menuitem">Ons diagnostisch aanbod</a>
-                    <a href="{{ '/ons-aanbod/crisis/' | relative_url }}" role="menuitem">Ons crisisaanbod</a>
-                  </div>
-                  <div class="secondary-pane hidden" id="secondary-leefgroepen" aria-label="Leefgroepen">
-                    <div class="pane-header"><h4>Leefgroepen</h4><button class="pane-close" data-close-pane>✕</button></div>
-                    <a href="{{ '/ons-aanbod/groep-1' | relative_url }}" role="menuitem">Groep 1</a>
-                    <a href="{{ '/ons-aanbod/groep-2' | relative_url }}" role="menuitem">Groep 2</a>
+                    <a href="{{ '/ons-aanbod/diagnostisch/' | relative_url }}" role="menuitem">Diagnostisch aanbod</a>
+                    <a href="{{ '/ons-aanbod/crisis/' | relative_url }}" role="menuitem">Crisisaanbod</a>
+                    <a href="{{ '/ons-aanbod/leefgroepen/' | relative_url }}" role="menuitem">Leefgroepwerking</a>
                   </div>
                 </li>
               {%- elsif my_page.title == "Werk bij Ons" -%}
