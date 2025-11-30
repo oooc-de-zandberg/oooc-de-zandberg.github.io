@@ -125,6 +125,7 @@ De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder mate
 </table>
 
 </details>
+<br/>
 
 Op woensdagnamiddag doen we altijd een activiteit of een uitstap.
 
