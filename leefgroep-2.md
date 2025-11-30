@@ -73,9 +73,9 @@ Je brengt best voldoende kledij mee. Je kan bij ons twee keer per week was indie
 
 ## Hoe laat moet ik gaan slapen?
 
-Tijdens een schoolweek gaan we slapen om 21u30. Er is één dag in de week waarop je kan uitkijken tot 22u00. Dit wordt in het begin van de week beslist, bij het opmaken van de tv-planning.
+Tijdens een schoolweek gaan we slapen om 21u30. Er is één dag in de week waarop je kan opblijven tot 22u00. Dit wordt in het begin van de week beslist, bij het opmaken van de tv-planning.
 Vrijdagavond blijven we op tot 22u30. Op zaterdag gaan we pas om 23u naar de kamer.
-In de vakantie verandert dit een beetje. We gaan slapen om 22u00. Er zijn twee dagen in de week dat je kan uitkijken tot 22u30. Dit wordt opnieuw in het begin van de week beslist, bij het opmaken van de tv-planning.
+In de vakantie verandert dit een beetje. We gaan slapen om 22u00. Er zijn twee dagen in de week dat je kan opblijven tot 22u30. Dit wordt opnieuw in het begin van de week beslist, bij het opmaken van de tv-planning.
 
 ## Hoe laat word ik wakker gemaakt?
 
@@ -91,7 +91,7 @@ Bij bezoeken komen in de eerste plaats je familieleden aan bod of de mensen die 
 
 Afhankelijk van jouw situatie en van wat jij en je context haalbaar of wenselijk vinden, kan je in het weekend naar huis gaan voor een dag of voor een gans weekend. Ook tijdens vakantieperiodes kunnen er afspraken gemaakt worden. Hoe de dagbezoeken en weekends verlopen, komt aan bod in de gesprekken met de sociale dienst. Als je in De Zandberg bent via de jeugdrechter moet die uiteraard zijn toestemming geven i.v.m. dagbezoeken of weekends.
 
-We zoeken met andere woorden samen met iedereen op welke manier er zoveel mogelijk betrokkenheid en contact behouden kan worden tijdens jou verblijf bij ons.
+We zoeken met andere woorden samen met iedereen op welke manier er zoveel mogelijk betrokkenheid en contact behouden kan worden tijdens jouw verblijf bij ons.
 
 ## Krijg ik zakgeld?
 
@@ -139,11 +139,11 @@ Daarnaast vinden we het extra belangrijk dat jullie steeds bereikbaar zijn. Dit 
 
 ## Wat kan ik allemaal doen bij jullie?
 
-Je kan hier van alles doen. We hebben een kleine fitnessruimte als je houdt van sport. Een danszaal waar je je kan uitleven op muziek. Een crealokaal om van alles te knutselen. Veel gezelschapspelletjes en puzzels. Maar we hebben ook Air-Hockey, Singstar, de Wii en Netflix. Buiten hebben we ook een trampoline en een tennisveld.
+Je kan hier van alles doen. We hebben een kleine fitnessruimte als je houdt van sport. Een danszaal waar je je kan uitleven op muziek. Een crealokaal om te knutselen. We hebben veel gezelschapspelletjes en puzzels. Maar we hebben ook Air-Hockey, Singstar, de Wii en Netflix. Buiten hebben we ook een trampoline en een tennisveld.
 
 ## Mogen er vrije uren gevraagd worden (op woensdag)?
 
-Meisjes kunnen vrije uren vragen. Dit kan zijn in eenmaal 8u of tweemaal 5u. Als je naar school gaat dan kan je deze inzetten op vrije dagen of het weekend. Als je niet naar school gaat dan kan dit enkel in het weekend. Vrije uren vragen is niet mogelijk op woensdag. We gebruiken deze dag om als groep samen een activiteit te gaan doen.
+Meisjes kunnen vrije uren vragen. Dit kan zijn bestaan uit één blok van 8 of twee blokken van 5u. Als je naar school gaat dan kan je deze inzetten op vrije dagen of het weekend. Als je niet naar school gaat dan kan dit enkel in het weekend. Vrije uren vragen is niet mogelijk op woensdag. We gebruiken deze dag om als groep samen een activiteit te gaan doen.
 
 ## Gaan de deuren van de kamer op slot?
 

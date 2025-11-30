@@ -37,3 +37,11 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Required for Jekyll v4.3+
 gem "webrick", "~> 1.8"
+
+# Required because Ruby 3.4+ removed csv from stdlib
+gem "csv"
+
+# Optional — silences the logger warning
+gem "logger"
+
+gem "base64"
