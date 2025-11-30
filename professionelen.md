@@ -64,6 +64,6 @@ Crisishulp is ook kosteloos voor de betrokkenen.
 
 | Informatie | |
 |-------------|---------|
-| Onze informatie voor aanmelders voor ambulante diagnostiek. Dit document omvat onze visie en leidinggevende principes, onze aanmeldingsflow en aanmeldingsprocedure | [Download](/assets/downloads/info-aanmelders.pdf) |
-| Leidraad en richtvragen bij aanmeldingen | [Download](/assets/downloads/leidraad-aanmelding.pdf) |
-| Formulier administratie bij aanmelding ambulante diagnostiek | [Download](/assets/downloads/formulier-aanmelding.docx) |
+| Onze informatie voor aanmelders voor ambulante diagnostiek. Dit document omvat onze visie en leidinggevende principes, onze aanmeldingsflow en aanmeldingsprocedure | [Download](/assets/downloads/info-aanmelders.pdf){:target="_blank" rel="noopener noreferrer"} |
+| Leidraad en richtvragen bij aanmeldingen | [Download](/assets/downloads/leidraad-aanmelding.pdf){:target="_blank" rel="noopener noreferrer"} |
+| Formulier administratie bij aanmelding ambulante diagnostiek | [Download](/assets/downloads/formulier-aanmelding.docx){:target="_blank" rel="noopener noreferrer"} |
