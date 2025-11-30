@@ -75,7 +75,7 @@ De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder mate
     <td><img src="/assets/images/dagindeling/ontbijt.png" alt="Ontbijt"></td>
   </tr>
   <tr>
-    <td>NAAR SCHOOL MET DE BUS<br/>SCHOOL</td>
+    <td>NAAR SCHOOL MET DE BUS</td>
     <td><img src="/assets/images/dagindeling/bus.png" alt="Bus naar school"></td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder mate
     <td><img src="/assets/images/dagindeling/boterhammen.png" alt="Boterhammen"></td>
   </tr>
   <tr>
-    <td>TERUG MET DE BUS NAAR DE ZANDBERG<br/>KOEK EN DRANKJE</td>
+    <td>TERUG MET DE BUS NAAR DE ZANDBERG<br/>VIERUURTJE</td>
     <td><img src="/assets/images/dagindeling/bus.png" alt="Bus terug"><img src="/assets/images/dagindeling/vieruurtje.png" alt="Vieruurtje"></td>
   </tr>
   <tr>
@@ -111,12 +111,14 @@ De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder mate
     <td><img src="/assets/images/dagindeling/wasmoment.png" alt="Wasmoment"></td>
   </tr>
   <tr>
-    <td>AANSLUITEND SLAPEN KLEUTERS<br/><br/>
+    <td>GAAN SLAPEN<br/><br/>
       <ul>
-        <li>20u00: SLAPEN 1° LEERJAAR – 7 JAAR</li>
-        <li>20u30: SLAPEN 8 – 9 JAAR</li>
-        <li>21u00: SLAPEN +10 JAAR</li>
-      </ul>
+        <li>Kleuters: na wasmoment</li>
+        <li>1e lj. t.e.m. 8 jaar: 20u</li>
+        <li>9-10 jaar: 20u30</li>
+        <li>11-12 jaar: 21u</li>
+      </ul><br/>
+      In weekend/vakantie een halfuur langer opblijven.
     </td>
     <td><img src="/assets/images/dagindeling/slapen.png" alt="Slapen"></td>
   </tr>
