@@ -72,43 +72,43 @@ De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder mate
 <table>
   <tr>
     <td>OPSTAAN EN ONTBIJT</td>
-    <td><img src="/assets/images/dagindeling/ontbijt.png" alt="Ontbijt"></td>
+    <td><img src="/assets/images/dagindeling/ontbijt.png" alt="Ontbijt" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>NAAR SCHOOL MET DE BUS</td>
-    <td><img src="/assets/images/dagindeling/bus.png" alt="Bus naar school"></td>
+    <td><img src="/assets/images/dagindeling/bus.png" alt="Bus naar school" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>'S MIDDAGS BOTERHAMMEN OP SCHOOL</td>
-    <td><img src="/assets/images/dagindeling/boterhammen.png" alt="Boterhammen"></td>
+    <td><img src="/assets/images/dagindeling/boterhammen.png" alt="Boterhammen" style="max-width: 200px"></td>
   </tr>
   <tr>
-    <td>TERUG MET DE BUS NAAR DE ZANDBERG<br/>VIERUURTJE</td>
-    <td><img src="/assets/images/dagindeling/bus.png" alt="Bus terug"><img src="/assets/images/dagindeling/vieruurtje.png" alt="Vieruurtje"></td>
+    <td>TERUG MET DE BUS<br/> NAAR DE ZANDBERG<br/><br/>VIERUURTJE</td>
+    <td><img src="/assets/images/dagindeling/bus.png" alt="Bus terug" style="max-width: 200px"><img src="/assets/images/dagindeling/vieruurtje.png" alt="Vieruurtje" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>VRIJE TIJD</td>
-    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd"></td>
+    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd" style="max-width: 200px"></td>
   </tr>
   <tr>
-    <td>HUISWERKMOMENT VANAF 1° LEERJAAR<br/>VRIJE TIJD</td>
-    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd"></td>
+    <td>HUISWERKMOMENT<br/>VANAF 1° LEERJAAR<br/><br/>VRIJE TIJD</td>
+    <td><img src="/assets/images/dagindeling/huiswerkmoment.png" alt="Huiswerkmoment" style="max-width: 200px"><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>WARM AVONDMAAL</td>
-    <td><img src="/assets/images/dagindeling/avondmaal.png" alt="Avondmaal"></td>
+    <td><img src="/assets/images/dagindeling/avondmaal.png" alt="Avondmaal" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>VRIJE TIJD</td>
-    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd"></td>
+    <td><img src="/assets/images/dagindeling/vrije-tijd.png" alt="Vrije tijd" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>SNOEPMOMENTJE</td>
-    <td><img src="/assets/images/dagindeling/snoepmoment.png" alt="Snoepmoment"></td>
+    <td><img src="/assets/images/dagindeling/snoepmoment.png" alt="Snoepmoment" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>WASMOMENT</td>
-    <td><img src="/assets/images/dagindeling/wasmoment.png" alt="Wasmoment"></td>
+    <td><img src="/assets/images/dagindeling/wasmoment.png" alt="Wasmoment" style="max-width: 200px"></td>
   </tr>
   <tr>
     <td>GAAN SLAPEN<br/><br/>
@@ -120,7 +120,7 @@ De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder mate
       </ul><br/>
       In weekend/vakantie een halfuur langer opblijven.
     </td>
-    <td><img src="/assets/images/dagindeling/slapen.png" alt="Slapen"></td>
+    <td><img src="/assets/images/dagindeling/slapen.png" alt="Slapen" style="max-width: 200px"></td>
   </tr>
 </table>
 
