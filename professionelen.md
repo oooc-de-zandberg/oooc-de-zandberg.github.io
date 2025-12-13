@@ -4,13 +4,21 @@ title: Professionelen
 permalink: /professionelen/
 ---
 
-- [Hulpverleningsaanbod en visie](#hulpverleningsaanbod-en-visie)
-- [Aanmelding?](#aanmelding)
-- [Rol van de aanmelder doorheen het diagnostisch traject?](#rol-van-de-aanmelder-doorheen-het-diagnostisch-traject)
-- [Financiële implicaties?](#financiële-implicaties)
-- [Contra-indicaties voor aanmelding bij ons centrum](#contra-indicaties-voor-aanmelding-bij-ons-centrum)
-- [Hoe aanmelden?](#hoe-aanmelden)
-- [Downloads](#downloads)
+<div class="page-with-sidebar">
+  <nav class="page-nav-sidebar">
+    <div class="page-nav-header">Op deze pagina</div>
+    <ul class="page-nav-list">
+      <li><a href="#hulpverleningsaanbod-en-visie" class="page-nav-link">Hulpverleningsaanbod en visie</a></li>
+      <li><a href="#aanmelding" class="page-nav-link">Aanmelding?</a></li>
+      <li><a href="#rol-van-de-aanmelder-doorheen-het-diagnostisch-traject" class="page-nav-link">Rol van de aanmelder doorheen het diagnostisch traject?</a></li>
+      <li><a href="#financiële-implicaties" class="page-nav-link">Financiële implicaties?</a></li>
+      <li><a href="#contra-indicaties-voor-aanmelding-bij-ons-centrum" class="page-nav-link">Contra-indicaties voor aanmelding bij ons centrum</a></li>
+      <li><a href="#hoe-aanmelden" class="page-nav-link">Hoe aanmelden?</a></li>
+      <li><a href="#downloads" class="page-nav-link">Downloads</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-main-content" markdown="1">
 
 ## Hulpverleningsaanbod en visie
 
@@ -48,7 +56,7 @@ Wij vertrekken vanuit de bijschakelgedachte, wat betekent dat het OOOC tijdelijk
 
 Indien de aanmelder niet in staat is om betrokken te blijven, zoeken wij samen naar iemand die deze rol wel kan opnemen.
 
-## Financiële implicaties?
+## Financiële implicaties? {#financiële-implicaties}
 
 Ambulante diagnostiek is kosteloos voor de betrokkenen.
 Verblijf wordt bekostigd via de Vlaamse Gemeenschap en aan de ouders vraagt de overheid in deze situatie een bijdrage via een gedeelte van de kinderbijslag.
@@ -77,3 +85,6 @@ Dan kan je contact opnemen met de sociale dienst:
 | Onze informatie voor aanmelders voor ambulante diagnostiek. Dit document omvat onze visie en leidinggevende principes, onze aanmeldingsflow en aanmeldingsprocedure | [Download](/assets/downloads/info-aanmelders.pdf){:target="_blank" rel="noopener noreferrer"} |
 | Leidraad en richtvragen bij aanmeldingen | [Download](/assets/downloads/leidraad-aanmelding.pdf){:target="_blank" rel="noopener noreferrer"} |
 | Formulier administratie bij aanmelding ambulante diagnostiek | [Download](/assets/downloads/formulier-aanmelding.docx){:target="_blank" rel="noopener noreferrer"} |
+
+  </div>
+</div>

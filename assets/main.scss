@@ -421,3 +421,121 @@ body {
     }
   }
 }
+
+// Page-level sidebar navigation (for long content pages)
+.page-with-sidebar {
+  position: relative;
+  max-width: none;
+  margin: 30px auto;
+  padding: 0;
+  
+  @media screen and (max-width: 900px) {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
+
+.page-nav-sidebar {
+  position: fixed;
+  left: max(20px, calc((100vw - 800px) / 2 - 260px));
+  top: 80px;
+  width: 220px;
+  height: fit-content;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  padding: 16px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #e1e5e9;
+  
+  @media screen and (max-width: 1200px) {
+    display: none; // Hide sidebar on smaller screens
+  }
+  
+  @media screen and (max-width: 900px) {
+    position: static;
+    display: block;
+    width: 100%;
+    background: white;
+    border: 1px solid #e1e5e9;
+    padding: 15px;
+  }
+}
+
+.page-nav-header {
+  font-weight: 600;
+  font-size: 13px;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e1e5e9;
+}
+
+.page-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+  li {
+    margin: 0;
+  }
+}
+
+.page-nav-link {
+  display: block;
+  padding: 6px 10px;
+  color: #333;
+  text-decoration: none;
+  font-size: 13px;
+  border-radius: 4px;
+  border-left: 3px solid transparent;
+  transition: all 0.2s ease;
+  line-height: 1.4;
+  
+  &:visited {
+    color: #333;
+  }
+  
+  &:hover {
+    background: #e8f4f8;
+    color: $primary-color;
+    border-left-color: $primary-color;
+  }
+  
+  &.active {
+    background: #e8f4f8;
+    color: $primary-color;
+    border-left-color: $primary-color;
+    font-weight: 600;
+  }
+}
+
+.page-main-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+  
+  @media screen and (max-width: 900px) {
+    max-width: 100%;
+  }
+  
+  h2 {
+    scroll-margin-top: 100px; // Account for sticky header
+    color: $primary-color;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e1e5e9;
+    
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+}

@@ -6,26 +6,34 @@ permalink: /ons-aanbod/groep-2
 
 Heb je vragen over onze werking? We geven de meest gestelde vragen al eens op een rijtje. Tijdens het traject staat de begeleiding voor je klaar en kan je bij hen terecht voor verdere vragen!
 
-- [Hoe kom je bij ons terecht?](#hoe-kom-je-bij-ons-terecht)
-- [Op welke manier kan je hulp krijgen vanuit De Zandberg?](#op-welke-manier-kan-je-hulp-krijgen-vanuit-de-zandberg)
-- [Wie werkt er allemaal in De Zandberg?](#wie-werkt-er-allemaal-in-de-zandberg)
-- [Hoelang blijf ik in De Zandberg?](#hoelang-blijf-ik-in-de-zandberg)
-- [Heb ik een eigen kamer?](#heb-ik-een-eigen-kamer)
-- [Wat breng ik mee als ik in De Zandberg moet verblijven?](#wat-breng-ik-mee-als-ik-in-de-zandberg-moet-verblijven)
-- [Hoe laat moet ik gaan slapen?](#hoe-laat-moet-ik-gaan-slapen)
-- [Hoe laat word ik wakker gemaakt?](#hoe-laat-word-ik-wakker-gemaakt)
-- [Hoe zit dat met bezoek?](#hoe-zit-dat-met-bezoek)
-- [Kan ik in het weekend naar huis?](#kan-ik-in-het-weekend-naar-huis)
-- [Krijg ik zakgeld?](#krijg-ik-zakgeld)
-- [Is er wifi in De Zandberg?](#is-er-wifi-in-de-zandberg)
-- [Mag ik roken/vapen?](#mag-ik-rokenvapen)
-- [Wat met mijn vuile was?](#wat-met-mijn-vuile-was)
-- [Kunnen we televisie en Netflix kijken?](#kunnen-we-televisie-en-netflix-kijken)
-- [Mag ik mijn gsm bijhouden?](#mag-ik-mijn-gsm-bijhouden)
-- [Wat kan ik allemaal doen bij jullie?](#wat-kan-ik-allemaal-doen-bij-jullie)
-- [Mogen er vrije uren gevraagd worden (op woensdag)?](#mogen-er-vrije-uren-gevraagd-worden-op-woensdag)
-- [Gaan de deuren van de kamer op slot?](#gaan-de-deuren-van-de-kamer-op-slot)
-- [Wat met mijn school? Ga ik naar school?](#wat-met-mijn-school-ga-ik-naar-school)
+<div class="page-with-sidebar">
+  <nav class="page-nav-sidebar">
+    <div class="page-nav-header">Op deze pagina</div>
+    <ul class="page-nav-list">
+      <li><a href="#hoe-kom-je-bij-ons-terecht" class="page-nav-link">Hoe kom je bij ons terecht?</a></li>
+      <li><a href="#op-welke-manier-kan-je-hulp-krijgen-vanuit-de-zandberg" class="page-nav-link">Op welke manier kan je hulp krijgen vanuit De Zandberg?</a></li>
+      <li><a href="#wie-werkt-er-allemaal-in-de-zandberg" class="page-nav-link">Wie werkt er allemaal in De Zandberg?</a></li>
+      <li><a href="#hoelang-blijf-ik-in-de-zandberg" class="page-nav-link">Hoelang blijf ik in De Zandberg?</a></li>
+      <li><a href="#heb-ik-een-eigen-kamer" class="page-nav-link">Heb ik een eigen kamer?</a></li>
+      <li><a href="#wat-breng-ik-mee-als-ik-in-de-zandberg-moet-verblijven" class="page-nav-link">Wat breng ik mee als ik in De Zandberg moet verblijven?</a></li>
+      <li><a href="#hoe-laat-moet-ik-gaan-slapen" class="page-nav-link">Hoe laat moet ik gaan slapen?</a></li>
+      <li><a href="#hoe-laat-word-ik-wakker-gemaakt" class="page-nav-link">Hoe laat word ik wakker gemaakt?</a></li>
+      <li><a href="#hoe-zit-dat-met-bezoek" class="page-nav-link">Hoe zit dat met bezoek?</a></li>
+      <li><a href="#kan-ik-in-het-weekend-naar-huis" class="page-nav-link">Kan ik in het weekend naar huis?</a></li>
+      <li><a href="#krijg-ik-zakgeld" class="page-nav-link">Krijg ik zakgeld?</a></li>
+      <li><a href="#is-er-wifi-in-de-zandberg" class="page-nav-link">Is er wifi in De Zandberg?</a></li>
+      <li><a href="#mag-ik-rokenvapen" class="page-nav-link">Mag ik roken/vapen?</a></li>
+      <li><a href="#wat-met-mijn-vuile-was" class="page-nav-link">Wat met mijn vuile was?</a></li>
+      <li><a href="#kunnen-we-televisie-en-netflix-kijken" class="page-nav-link">Kunnen we televisie en Netflix kijken?</a></li>
+      <li><a href="#mag-ik-mijn-gsm-bijhouden" class="page-nav-link">Mag ik mijn gsm bijhouden?</a></li>
+      <li><a href="#wat-kan-ik-allemaal-doen-bij-jullie" class="page-nav-link">Wat kan ik allemaal doen bij jullie?</a></li>
+      <li><a href="#mogen-er-vrije-uren-gevraagd-worden-op-woensdag" class="page-nav-link">Mogen er vrije uren gevraagd worden (op woensdag)?</a></li>
+      <li><a href="#gaan-de-deuren-van-de-kamer-op-slot" class="page-nav-link">Gaan de deuren van de kamer op slot?</a></li>
+      <li><a href="#wat-met-mijn-school-ga-ik-naar-school" class="page-nav-link">Wat met mijn school? Ga ik naar school?</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-main-content" markdown="1">
 
 ## Hoe kom je bij ons terecht?
 
@@ -152,3 +160,6 @@ De kamers in De Zandberg gaan enkel op slot als het meisje niet in haar kamer is
 ## Wat met mijn school? Ga ik naar school?
 
 Alle jongeren gaan vanuit De Zandberg naar school. Het schoollopen wordt in de huidige school verdergezet. Afhankelijk van het traject kan je daarnaartoe met de fiets of het openbaar vervoer. Wanneer het op school moeilijk loopt, bekijken met jou, de school en belangrijke anderen wat er nodig is.
+
+  </div>
+</div>
