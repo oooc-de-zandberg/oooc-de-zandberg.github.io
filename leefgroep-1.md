@@ -4,14 +4,22 @@ title: Leefgroep 1
 permalink: /ons-aanbod/groep-1
 ---
 
-- [Hoe kom je bij ons terecht?](#hoe-kom-je-bij-ons-terecht)
-- [Op welke manier kan je hulp krijgen bij De Zandberg?](#op-welke-manier-kan-je-hulp-krijgen-bij-de-zandberg)
-- [Wat gebeurt er in de leefgroep?](#wat-gebeurt-er-in-de-leefgroep)
-- [Hoe ziet onze leefgroep eruit?](#hoe-ziet-onze-leefgroep-eruit)
-- [Hulp voor je ouders (en andere belangrijke mensen)](#hulp-voor-je-ouders-en-andere-belangrijke-mensen)
-- [Gesprekken met de psycholoog](#gesprekken-met-de-psycholoog)
-- [Wat met school?](#wat-met-school)
-- [Hoe blijf je in contact met je ouders?](#hoe-blijf-je-in-contact-met-je-ouders)
+<div class="page-with-sidebar">
+  <nav class="page-nav-sidebar">
+    <div class="page-nav-header">Op deze pagina</div>
+    <ul class="page-nav-list">
+      <li><a href="#hoe-kom-je-bij-ons-terecht" class="page-nav-link">Hoe kom je bij ons terecht?</a></li>
+      <li><a href="#op-welke-manier-kan-je-hulp-krijgen-bij-de-zandberg" class="page-nav-link">Op welke manier kan je hulp krijgen bij De Zandberg?</a></li>
+      <li><a href="#wat-gebeurt-er-in-de-leefgroep" class="page-nav-link">Wat gebeurt er in de leefgroep?</a></li>
+      <li><a href="#hoe-ziet-onze-leefgroep-eruit" class="page-nav-link">Hoe ziet onze leefgroep eruit?</a></li>
+      <li><a href="#hulp-voor-je-ouders-en-andere-belangrijke-mensen" class="page-nav-link">Hulp voor je ouders (en andere belangrijke mensen)</a></li>
+      <li><a href="#gesprekken-met-de-psycholoog" class="page-nav-link">Gesprekken met de psycholoog</a></li>
+      <li><a href="#wat-met-school" class="page-nav-link">Wat met school?</a></li>
+      <li><a href="#hoe-blijf-je-in-contact-met-je-ouders" class="page-nav-link">Hoe blijf je in contact met je ouders?</a></li>
+    </ul>
+  </nav>
+
+  <div class="page-main-content" markdown="1">
 
 ## Hoe kom je bij ons terecht?
 
@@ -130,3 +138,6 @@ Als je bij ons bent via de **jeugdrechter**, dan houden we ons aan de regels die
 Soms bouwen we het contact stap voor stap op, zodat het rustig en goed verloopt.
 
 En weet je? De leefgroep is **altijd bereikbaar via telefoon**. Dus je ouders kunnen bellen als ze vragen hebben – of als jij hen even wil spreken.
+
+  </div>
+</div>
