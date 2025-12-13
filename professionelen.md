@@ -9,6 +9,7 @@ permalink: /professionelen/
 - [Rol van de aanmelder doorheen het diagnostisch traject?](#rol-van-de-aanmelder-doorheen-het-diagnostisch-traject)
 - [Financiële implicaties?](#financiële-implicaties)
 - [Contra-indicaties voor aanmelding bij ons centrum](#contra-indicaties-voor-aanmelding-bij-ons-centrum)
+- [Hoe aanmelden?](#hoe-aanmelden)
 - [Downloads](#downloads)
 
 ## Hulpverleningsaanbod en visie
@@ -59,6 +60,15 @@ Crisishulp is ook kosteloos voor de betrokkenen.
 - Een duidelijk uitgesproken verslavingsproblematiek.
 - Een duidelijke psychiatrische problematiek waarbij een opname in de kinder- en jeugdpsychiatrie is aangewezen.
 - Ernstige mentale, motorische of zintuiglijke beperking waardoor de veiligheid van medebewoners en begeleiders in het OOOC in het gedrang komt en waarbij een duidelijke begrenzende aanpak nodig is die meer structurerend is dan wat een OOOC kan bieden.
+
+## Hoe aanmelden?
+
+Wens je je als professionele hulpverlener graag aan te melden of een dossier voorleggen?
+
+Dan kan je contact opnemen met de sociale dienst:
+
+- Voor een jongere – 12 jaar via het nummer 050/40.66.84
+- Voor een jongere +12 jaar via het nummer 050/40.66.87
 
 ## Downloads
 
