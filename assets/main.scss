@@ -194,9 +194,14 @@ body {
       text-align: left;
       cursor: pointer;
       line-height: 1.4;
+      border-left: 3px solid transparent;
+      transition: all 0.2s ease;
       
       &:hover {
-        background: #b7cdab;
+        background: rgba(53, 115, 17, 0.08);
+        border-left-color: #357311;
+        color: #357311;
+        padding-left: 18px;
       }
     }
     
@@ -208,7 +213,10 @@ body {
       width: 100%;
       
       &:hover {
-        background: #b7cdab;
+        background: rgba(53, 115, 17, 0.08);
+        border-left-color: #357311;
+        color: #357311;
+        padding-left: 18px;
       }
       
       .arrow {
@@ -249,10 +257,14 @@ body {
       color: #333;
       text-align: left;
       line-height: 1.4;
+      border-left: 3px solid transparent;
+      transition: all 0.2s ease;
       
       &:hover {
-        background: #357311;
-        color: #fff;
+        background: rgba(53, 115, 17, 0.08);
+        border-left-color: #357311;
+        color: #357311;
+        padding-left: 18px;
       }
       
       &:first-of-type {
