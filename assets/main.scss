@@ -22,8 +22,6 @@ body {
   border-top: 5px solid $primary-color;
   border-bottom: 1px solid $secondary-color;
   background-color: white;
-  position: relative;
-  z-index: 1000; // Ensure header and nav stay on top
 }
 
 .btn {
@@ -112,6 +110,8 @@ body {
 
 // Navigation (new button-based dropdown + two-pane)
 .site-nav {
+  position: relative;
+  z-index: 1000; // Ensure header and nav stay on top
   // Override Minima defaults for custom nav structure
   .trigger {
     display: block !important;
@@ -482,7 +482,7 @@ body {
 .page-nav-sidebar {
   position: fixed;
   left: max(20px, calc((100vw - 800px) / 2 - 260px));
-  top: 150px;
+  top: 90px;
   width: 220px;
   height: fit-content;
   max-height: calc(100vh - 100px);
