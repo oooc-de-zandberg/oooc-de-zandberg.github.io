@@ -664,8 +664,8 @@ body {
   }
 }
 
-// Ons Aanbod cards grid
-.aanbod-grid {
+// Navigation cards grid (used on Ons Aanbod and Werk bij Ons pages)
+.card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 30px;
@@ -677,7 +677,7 @@ body {
   }
 }
 
-.aanbod-card {
+.nav-card {
   position: relative;
   display: flex;
   flex-direction: row;
@@ -698,12 +698,12 @@ body {
     transform: translateY(-3px);
     box-shadow: 0 8px 24px rgba(127, 182, 133, 0.2);
     
-    .aanbod-icon {
+    .nav-card-icon {
       transform: scale(1.1);
     }
   }
   
-  .aanbod-icon {
+  .nav-card-icon {
     font-size: 28px;
     transition: transform 0.3s ease;
     flex-shrink: 0;
