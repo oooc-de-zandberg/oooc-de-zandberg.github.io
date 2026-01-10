@@ -590,4 +590,13 @@ body {
   p {
     text-align: justify;
   }
+  
+  img {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+  }
 }
