@@ -49,9 +49,7 @@ Verblijf in functie van handelingsgerichte diagnostiek is niet rechtstreeks toeg
 
 Ons crisisaanbod (crisisbegeleiding en/of crisisopvang) wordt georganiseerd en gematcht via het Crisisnetwerk West-Vlaanderen. Er kan dus geen rechtstreekse aanmelding gedaan worden voor crisishulp.
 
-Wens je je als professionele hulpverlener graag aan te melden of een dossier voor te leggen?
-
-Dan kan je contact opnemen met de sociale dienst:
+**Wens je als professionele hulpverlener graag aan te melden of een dossier voor te leggen?** Dan kan je contact opnemen met de sociale dienst:
 
 - Voor een jongere – 12 jaar via het nummer 050/40.66.84
 - Voor een jongere +12 jaar via het nummer 050/40.66.87
