@@ -38,6 +38,31 @@ body {
   }
 }
 
+.btn-primary {
+  display: inline-block;
+  padding: 14px 30px;
+  background-color: $primary-color;
+  color: white !important;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(53, 115, 17, 0.2);
+  
+  &:hover {
+    background-color: darken($primary-color, 10%);
+    color: white !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(53, 115, 17, 0.3);
+    text-decoration: none;
+  }
+  
+  &:active {
+    transform: translateY(0);
+  }
+}
+
 .site-footer {
   border-top: 1px solid $secondary-color;
   background-color: #f8f9fa;

@@ -71,7 +71,9 @@ Je krijgt een eigen dierensymbool. In de leefgroep vind je deze dieren ook terug
 
 De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder materiaal (zoals multimedia). Kinderen vanaf 11 jaar die een gsm hebben, mogen die meebrengen en gebruiken volgens de afspraken.
 
-**[Bekijk hier een schooldag in De Zandberg](/ons-aanbod/groep-1/dagverloop)**
+<div style="text-align: center; margin: 30px 0;">
+  <a href="/ons-aanbod/groep-1/dagverloop" class="btn-primary">🏫 Bekijk hier een schooldag in De Zandberg</a>
+</div>
 
 Op woensdagnamiddag doen we altijd een activiteit of een uitstap.
 
