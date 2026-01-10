@@ -20,3 +20,5 @@ We denken graag met je mee over hoe we samen een verschil kunnen maken.
 Naast financiële steun ervaren we ook veel waardering voor de giften in de vorm van kledij en speelgoed. Deze kunnen steeds afgegeven worden aan het onthaal van ons centrum. Af en toe doen we ook gerichte oproepen voor specifieke materialen die we nodig hebben in onze werking. Deze oproepen delen we via onze Facebookpagina. De link naar deze pagina vind je terug op onze contactpagina.
 
 **Alvast hartelijk dank voor je steun!**
+
+<img src="/assets/images/steun-ons.jpg" alt="Steun Ons" class="missie-image">
