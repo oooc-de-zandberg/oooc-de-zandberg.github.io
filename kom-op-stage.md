@@ -10,9 +10,7 @@ Ben jij student in een sociale, pedagogische of orthopedagogische richting? Heb 
 
 Of je nu liever meedraait in de leefgroep, je wil verdiepen in contextbegeleiding, individueel psychologische werk of je stage eerder focust op administratief of logistiek werk. We bekijken samen wat het best past bij jouw leerdoelen én bij onze werking.
 
-Interesse? Stuur ons gerust een mailtje met wat meer info over jezelf, je opleiding en wat je zoekt in een stage.
-
-Voor stageaanvragen kan je terecht bij verschillende collega's, afhankelijk van de inhoud en focus van je stage:
+Interesse? Stuur ons gerust een mailtje met wat meer info over jezelf, je opleiding en wat je zoekt in een stage. Voor stageaanvragen kan je terecht bij verschillende collega's, afhankelijk van de inhoud en focus van je stage:
 
 ### Groep 1 (jongens en meisjes; 0-11jaar):
 

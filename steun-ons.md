@@ -12,8 +12,7 @@ Onze jongeren staan vandaag voor heel wat uitdagingen op hun weg naar volwassenh
 
 Elke gift, groot of klein, helpt ons om nog beter te zorgen voor onze jongeren en hun netwerken.
 
-Wil je ons ondersteunen? Dat kan via overschrijving op **BE46 4783 3527 9136**.
-Vermeld in de mededeling duidelijk dat het om een gift/sponsoring gaat.
+Wil je ons ondersteunen? Dat kan via overschrijving op **BE46 4783 3527 9136**. Vermeld in de mededeling duidelijk dat het om een gift/sponsoring gaat.
 
 Je kiest zelf of je onze algemene werking wil steunen, of liever een specifiek project mee mogelijk maakt. Heb je vragen of wil je meer info over onze vzw of lopende initiatieven? Neem dan gerust contact met ons op via <directie@zandberg.be> of **050/40.66.82**.
 
