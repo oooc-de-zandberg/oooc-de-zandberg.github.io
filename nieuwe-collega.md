@@ -9,3 +9,5 @@ Ben je aangetrokken tot een (studenten)job in de jeugdzorg en heb je een groot h
 Klik even door naar onze vacatures via de website van [de VDAB](https://www.vdab.be/vindeenjob/vacatures?trefwoord=OOOC%20DE%20ZANDBERG&sort=standaard){:target="_blank" rel="noopener noreferrer"}.
 
 Spontaan solliciteren kan ook steeds via <directie@zandberg.be>.
+
+<img src="/assets/images/team.jpg" alt="Word jij onze nieuwe collega?" class="highlight-image">

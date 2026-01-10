@@ -13,7 +13,6 @@ permalink: /professionelen/
       <li><a href="#rol-van-de-aanmelder-doorheen-het-diagnostisch-traject" class="page-nav-link">Rol van de aanmelder doorheen het diagnostisch traject?</a></li>
       <li><a href="#financiële-implicaties" class="page-nav-link">Financiële implicaties?</a></li>
       <li><a href="#contra-indicaties-voor-aanmelding-bij-ons-centrum" class="page-nav-link">Contra-indicaties voor aanmelding bij ons centrum</a></li>
-      <li><a href="#hoe-aanmelden" class="page-nav-link">Hoe aanmelden?</a></li>
       <li><a href="#downloads" class="page-nav-link">Downloads</a></li>
     </ul>
   </nav>
@@ -50,6 +49,11 @@ Verblijf in functie van handelingsgerichte diagnostiek is niet rechtstreeks toeg
 
 Ons crisisaanbod (crisisbegeleiding en/of crisisopvang) wordt georganiseerd en gematcht via het Crisisnetwerk West-Vlaanderen. Er kan dus geen rechtstreekse aanmelding gedaan worden voor crisishulp.
 
+**Wens je als professionele hulpverlener graag aan te melden of een dossier voor te leggen?** Dan kan je contact opnemen met de sociale dienst:
+
+- Voor een jongere – 12 jaar via het nummer 050/40.66.84
+- Voor een jongere +12 jaar via het nummer 050/40.66.87
+
 ## Rol van de aanmelder doorheen het diagnostisch traject?
 
 Wij vertrekken vanuit de bijschakelgedachte, wat betekent dat het OOOC tijdelijk betrokken wordt om het traject te onderbouwen en handelingsgerichte adviezen te formuleren, waarmee de aanmelder samen met minderjarige en context verder aan de slag kan. Aanmelders zijn en blijven daarom cruciale partners in het diagnostisch of crisis traject. We rekenen dan ook op een actieve betrokkenheid van de aanmelders bij opstart, tijdens en bij afsluit van het traject. Bij aanvang van het traject worden hierover afspraken gemaakt.
@@ -68,15 +72,6 @@ Crisishulp is ook kosteloos voor de betrokkenen.
 - Een duidelijk uitgesproken verslavingsproblematiek.
 - Een duidelijke psychiatrische problematiek waarbij een opname in de kinder- en jeugdpsychiatrie is aangewezen.
 - Ernstige mentale, motorische of zintuiglijke beperking waardoor de veiligheid van medebewoners en begeleiders in het OOOC in het gedrang komt en waarbij een duidelijke begrenzende aanpak nodig is die meer structurerend is dan wat een OOOC kan bieden.
-
-## Hoe aanmelden?
-
-Wens je je als professionele hulpverlener graag aan te melden of een dossier voorleggen?
-
-Dan kan je contact opnemen met de sociale dienst:
-
-- Voor een jongere – 12 jaar via het nummer 050/40.66.84
-- Voor een jongere +12 jaar via het nummer 050/40.66.87
 
 ## Downloads
 

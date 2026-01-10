@@ -21,3 +21,5 @@ Onze werking is geschikt voor diverse diagnostische vraagstukken en problematiek
 Denk je dat ons aanbod iets voor jou is? Bespreek dit dan met een hulpverlener die je al kent. Heb je nog geen hulpverlener? Dan kan je terecht bij het CLB als eerste aanspreekpunt.
 
 Je kan je dus niet rechtstreeks bij ons aanmelden.
+
+<img src="/assets/images/diagnostisch-aanbod.jpg" alt="Diagnostisch aanbod" class="highlight-image">

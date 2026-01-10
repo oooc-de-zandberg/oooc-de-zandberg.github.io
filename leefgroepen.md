@@ -10,3 +10,5 @@ Onze organisatie heeft twee (leef)groepswerkingen. De leefgroepen worden samenge
 - In **groep 2** begeleiden we meisjes vanaf 12 tot 21 jaar.<br/>[Leer meer over onze werking in groep 2](./../groep-2)
 
 Samenleven met verschillende jongeren en begeleiders is geen gemakkelijke opdracht. Het is dan ook noodzakelijk enkele leefregels vast te leggen, zodat het samenleven vlot verloopt. De dagstructuur en leefregels verschillen voor beide groepen. Zoek je meer informatie over de werking van beide groepen. Dan kan je deze hieronder vinden.
+
+<img src="/assets/images/leefgroepwerking.jpg" alt="Leefgroepwerking" class="highlight-image">
