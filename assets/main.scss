@@ -600,3 +600,22 @@ body {
     height: auto;
   }
 }
+
+// Missie page image float
+.missie-image {
+  float: right !important;
+  display: inline !important;
+  margin: 40px 0 40px 30px !important;
+  max-width: 350px;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  
+  @media screen and (max-width: 768px) {
+    float: none !important;
+    max-width: 100%;
+    margin: 0 auto 20px !important;
+    display: block !important;
+  }
+}
