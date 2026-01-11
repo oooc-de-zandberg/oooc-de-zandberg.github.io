@@ -33,6 +33,8 @@ Het resultaat van onze tussenkomst is een **integratief beeld van de noden en kr
 
 **Als OOOC zijn we inzetbaar voor verschillende diagnostische vragen en/of problematieken en in verschillende fases van de trajecten van minderjarigen.** We gaan daarbij gericht en systematisch kijken welke domeinen en mensen, disciplines, expertise we in ons onderzoek nodig hebben. We verkiezen een diagnostiek die vroeg en nabij is, maar door onze brede inzetbaarheid kunnen we ook later in trajecten (opnieuw) een rol spelen.
 
+<img src="/assets/images/professionelen-1.jpg" alt="Hulpverlening & Visie" class="highlight-image">
+
 We zoeken voor elke minderjarige welke diagnostische acties in **ons flexibel aanbod aan werkvormen** het meest passend zijn om beweging te krijgen in haperende ontwikkelingstrajecten. Als OOOC hanteren we verschillende werkvormen: mobiel/ambulant en residentieel. We zetten, indien zinvol in een diagnostisch traject, een tijdelijk verblijf in onze leefgroep in als diagnostisch instrument. De leefgroep fungeert in dat geval als rustplek en als experimenteerruimte om hypotheses actief te toetsen. Kinderen en jongeren kunnen dus tijdelijk in de leefgroep verblijven maar dit verblijf staat steeds in teken van de handelingsgerichte diagnostiek en is dus nooit losstaand op zichzelf.
 
 De **duur van de begeleidingsperiode** wordt individueel vastgesteld en varieert tussen 45 en 120 dagen. Deze termijn is flexibel en wordt bepaald op basis van de aard en het aantal diagnostische vragen. De precieze duur wordt in overleg met de cliënt, de aanmelder en andere betrokkenen vastgesteld.
@@ -59,6 +61,8 @@ Ons crisisaanbod (crisisbegeleiding en/of crisisopvang) wordt georganiseerd en g
 Wij vertrekken vanuit de bijschakelgedachte, wat betekent dat het OOOC tijdelijk betrokken wordt om het traject te onderbouwen en handelingsgerichte adviezen te formuleren, waarmee de aanmelder samen met minderjarige en context verder aan de slag kan. Aanmelders zijn en blijven daarom cruciale partners in het diagnostisch of crisis traject. We rekenen dan ook op een actieve betrokkenheid van de aanmelders bij opstart, tijdens en bij afsluit van het traject. Bij aanvang van het traject worden hierover afspraken gemaakt.
 
 Indien de aanmelder niet in staat is om betrokken te blijven, zoeken wij samen naar iemand die deze rol wel kan opnemen.
+
+<img src="/assets/images/professionelen-2.jpg" alt="Aanmelding" class="highlight-image">
 
 ## Financiële implicaties? {#financiële-implicaties}
 

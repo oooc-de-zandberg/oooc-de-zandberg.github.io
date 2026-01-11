@@ -13,3 +13,5 @@ Als vrijwilliger bij ons kun je op verschillende manieren het verschil maken. Di
 Heb je wat vrije tijd en wil je die zinvol inzetten? Dan ben jij misschien de vrijwilliger die we zoeken!
 
 Heb jij interesse om vrijwilliger te worden in De Zandberg? Neem dan gerust contact op met de coördinator van de vrijwilligerswerking Lieven Vandenbroucke, via <lieven_vdb@hotmail.com> of 0493/41.27.96.
+
+<img src="/assets/images/vrijwilliger.jpg" alt="Vrijwilliger" class="highlight-image">

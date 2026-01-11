@@ -25,3 +25,5 @@ Interesse? Stuur ons gerust een mailtje met wat meer info over jezelf, je opleid
 - stage in de sociale dienst: <sanne.ledure@zandberg.be>
 
 Een opdracht of interview voor school? Dan kun je gerust via mail je vraag sturen naar: [hannelore.cottenie@zandberg.be](mailto:hannelore.cottenie@zandberg.be).
+
+<img src="/assets/images/stage.jpg" alt="Stage" class="highlight-image">
