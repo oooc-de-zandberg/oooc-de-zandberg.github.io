@@ -19,3 +19,5 @@ In beide trajecten staan verbinding, samenwerking en het versterken van krachten
 Bevind jij of je gezin zich in een crisissituatie? Bespreek dit dan met een hulpverlener die je al kent. Heb je nog geen hulpverlener? Dan kan je terecht bij het CLB of huisarts als eerste aanspreekpunt.
 
 Je kan je dus niet rechtstreeks bij ons aanmelden.
+
+<img src="/assets/images/crisis-aanbod.jpg" alt="Crisisaanbod" class="highlight-image">

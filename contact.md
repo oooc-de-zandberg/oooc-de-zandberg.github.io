@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+<img src="/assets/images/contact.jpg" alt="Contact" class="highlight-image">
+
 <p style="text-align:center;">
 <b>West Vlaams Onthaal-, Observatie- en Oriëntatiecentrum</b><br/>
 <b>De Zandberg vzw</b><br/>
