@@ -19,7 +19,7 @@ permalink: /ons-aanbod/groep-1
     </ul>
   </nav>
 
-  <div class="page-main-content" markdown="1">
+<div class="page-main-content" markdown="1">
 
 ## Hoe kom je bij ons terecht?
 
@@ -57,9 +57,9 @@ De begeleiders zijn volwassenen die elke dag bij je zijn. Ze helpen je bij wat j
 
 - Je zal de begeleiders snel leren kennen.
 - Als jij of je ouders iets belangrijk vinden, mogen jullie dat altijd vertellen aan de begeleiders.
-- Heb je vragen over hoe het gaat in de groep? Dan mag je dat zeker vragen!
+  - Heb je vragen over hoe het gaat in de groep? Dan mag je dat zeker vragen!
 
-<img src="/assets/images/leefgroep-1/Titelblok 3.png" alt="Leefgroep 1" class="highlight-image">
+  <img src="/assets/images/leefgroep-1/Titelblok 3.png" alt="Leefgroep 1" class="highlight-image">
 
 ## Hoe ziet onze leefgroep eruit?
 
@@ -81,9 +81,12 @@ We hebben ook een living, eettafel en keuken.
 
 Als je in De Zandberg slaapt, dan krijg je een eigen kamer; je kan deze inrichten met je eigen spulletjes (zoals foto’s, speelgoed, versiering).
 
-<img src="/assets/images/leefgroep-1/Titelblok 4 (3).jpg" alt="Leefgroep 1" class="highlight-image">
-
 Je krijgt een eigen dierensymbool. In de leefgroep vind je deze dieren ook terug om alles wat van jou is te herkennen. Zo hangt er een dierensymbooltje bij de kapstok, de schoenkast, de boekentassen, je persoonlijke schuif, je kamer, je snoepdoos, ...
+
+<div class="image-grid-2">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (3.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (3.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
 
 De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder materiaal (zoals multimedia). Kinderen vanaf 11 jaar die een gsm hebben, mogen die meebrengen en gebruiken volgens de afspraken.
 
@@ -122,6 +125,8 @@ Met toestemming van je ouders, praat de sociale dienst soms ook met andere mense
 - Wie jou brengt of haalt,
 - En of je nog iets nodig hebt zoals kledij of materiaal.
 
+<img src="/assets/images/leefgroep-1/Titelblok 5.png" alt="Leefgroep 1" class="highlight-image">
+
 ## Gesprekken met de psycholoog
 
 Ongeveer **één keer per week** heb je een moment met de **psycholoog**. Dat is iemand die goed luistert en je helpt om je gevoelens te begrijpen.
@@ -131,6 +136,8 @@ Ongeveer **één keer per week** heb je een moment met de **psycholoog**. Dat is
 - Je mag ook zeggen wat je vindt van de hulp die je krijgt.
 
 We vinden het heel belangrijk dat **jij mag meepraten** over wat er met je gebeurt. Het is jouw verhaal, dus jouw mening telt!
+
+<img src="/assets/images/leefgroep-1/Titelblok 6.png" alt="Leefgroep 1" class="highlight-image">
 
 ## Wat met school?
 
@@ -144,6 +151,8 @@ We werken dan samen met deze scholen:
 - **De Loopbrug Snellegem**
 
 Heb je het moeilijk op school of zijn er zorgen? Dan praten wij samen met jou, je ouders en de school om te kijken hoe we kunnen helpen.
+
+<img src="/assets/images/leefgroep-1/Titelblok 7.png" alt="Leefgroep 1" class="highlight-image">
 
 ## Hoe blijf je in contact met je ouders?
 
@@ -163,6 +172,8 @@ Als je bij ons bent via de **jeugdrechter**, dan houden we ons aan de regels die
 Soms bouwen we het contact stap voor stap op, zodat het rustig en goed verloopt.
 
 En weet je? De leefgroep is **altijd bereikbaar via telefoon**. Dus je ouders kunnen bellen als ze vragen hebben – of als jij hen even wil spreken.
+
+<img src="/assets/images/leefgroep-1/Titelblok 8.png" alt="Leefgroep 1" class="highlight-image">
 
   </div>
 </div>
