@@ -37,6 +37,8 @@ We kijken samen met jou, je ouders en andere belangrijke mensen in je leven wat 
 
 Ben je via de jeugdrechter bij ons gekomen? Dan beslist die wat er verder moet gebeuren. Ben je via iemand anders gekomen (zoals het OCJ of een hulpverlener)? Dan beslissen je ouders dat samen met hen. We zorgen er altijd voor dat wat goed is voor jou, het belangrijkste is.
 
+<img src="/assets/images/leefgroep-1/Titelblok 1.png" alt="Leefgroep 1" class="highlight-image">
+
 ## Op welke manier kan je hulp krijgen bij De Zandberg?
 
 Er zijn verschillende manieren waarop we kunnen helpen:
@@ -57,15 +59,29 @@ De begeleiders zijn volwassenen die elke dag bij je zijn. Ze helpen je bij wat j
 - Als jij of je ouders iets belangrijk vinden, mogen jullie dat altijd vertellen aan de begeleiders.
 - Heb je vragen over hoe het gaat in de groep? Dan mag je dat zeker vragen!
 
+<img src="/assets/images/leefgroep-1/Titelblok 3.png" alt="Leefgroep 1" class="highlight-image">
+
 ## Hoe ziet onze leefgroep eruit?
 
 Buiten hebben we een mooi speelplein, een trampoline, fietsen en ander buitenspeelgoed. Onze leefgroep ligt ook dicht bij het bos.
 
+<div class="image-grid-2">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (1.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (1.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
+
 In onze leefgroep hebben wij een grote speelzaal waar je kan spelen met Lego, poppen, gezelschapsspelletjes, multimedia, …
+
+<div class="image-grid-2">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (2.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (2.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
 
 We hebben ook een living, eettafel en keuken.
 
 Als je in De Zandberg slaapt, dan krijg je een eigen kamer; je kan deze inrichten met je eigen spulletjes (zoals foto’s, speelgoed, versiering).
+
+<img src="/assets/images/leefgroep-1/Titelblok 4 (3).jpg" alt="Leefgroep 1" class="highlight-image">
 
 Je krijgt een eigen dierensymbool. In de leefgroep vind je deze dieren ook terug om alles wat van jou is te herkennen. Zo hangt er een dierensymbooltje bij de kapstok, de schoenkast, de boekentassen, je persoonlijke schuif, je kamer, je snoepdoos, ...
 
@@ -76,6 +92,13 @@ De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder mate
 </div>
 
 Op woensdagnamiddag doen we altijd een activiteit of een uitstap.
+
+<div class="image-grid-4">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.3).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.4).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
 
 Sommige kinderen gaan in het weekend niet naar huis: dan is er veel vrije tijd en af en toe ook een activiteit of uitstapje. Op zondag maken we soms zelf het middageten klaar met de begeleider.
 
