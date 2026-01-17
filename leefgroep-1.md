@@ -2,6 +2,7 @@
 layout: page
 title: Leefgroep 1
 permalink: /ons-aanbod/groep-1
+enable_lightbox: true
 ---
 
 <div class="page-with-sidebar">

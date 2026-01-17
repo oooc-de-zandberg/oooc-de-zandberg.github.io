@@ -841,17 +841,6 @@ body {
   }
 }
 
-// Add cursor pointer to clickable images
-.highlight-image,
-.highlight-image-small {
-  cursor: pointer;
-  transition: opacity 0.3s ease;
-  
-  &:hover {
-    opacity: 0.9;
-  }
-}
-
 // Daily Schedule Vertical Layout
 .daily-schedule-vertical {
   max-width: 900px;
