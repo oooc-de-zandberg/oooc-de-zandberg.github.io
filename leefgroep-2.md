@@ -154,7 +154,7 @@ In de living hebben we een televisie. Vooral tijdens de vaste avondmomenten en i
 
 <div class="image-grid-2">
   <img src="/assets/images/leefgroep-2/Tv kijken 1.jpg" alt="TV Kijken" class="highlight-image-small">
-  <img src="/assets/images/leefgroep-2/TV Kijken 2.jpg" alt="TV Kijken" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/TV kijken 2.jpg" alt="TV Kijken" class="highlight-image-small">
 </div>
 
 ## Mag ik mijn gsm bijhouden?
