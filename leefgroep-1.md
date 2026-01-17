@@ -2,6 +2,7 @@
 layout: page
 title: Leefgroep 1
 permalink: /ons-aanbod/groep-1
+enable_lightbox: true
 ---
 
 <div class="page-with-sidebar">
@@ -19,7 +20,7 @@ permalink: /ons-aanbod/groep-1
     </ul>
   </nav>
 
-  <div class="page-main-content" markdown="1">
+<div class="page-main-content" markdown="1">
 
 ## Hoe kom je bij ons terecht?
 
@@ -36,6 +37,8 @@ Je ouders hebben hulp gevraagd, via een andere organisatie zoals het CLB, het CA
 We kijken samen met jou, je ouders en andere belangrijke mensen in je leven wat er nodig is om de juiste hulp te geven. Aan het einde van onze hulp praten we met de mensen die jou hebben aangemeld. Samen beslissen we wat er daarna gebeurt.
 
 Ben je via de jeugdrechter bij ons gekomen? Dan beslist die wat er verder moet gebeuren. Ben je via iemand anders gekomen (zoals het OCJ of een hulpverlener)? Dan beslissen je ouders dat samen met hen. We zorgen er altijd voor dat wat goed is voor jou, het belangrijkste is.
+
+<img src="/assets/images/leefgroep-1/Titelblok 1.png" alt="Leefgroep 1" class="highlight-image">
 
 ## Op welke manier kan je hulp krijgen bij De Zandberg?
 
@@ -55,13 +58,25 @@ De begeleiders zijn volwassenen die elke dag bij je zijn. Ze helpen je bij wat j
 
 - Je zal de begeleiders snel leren kennen.
 - Als jij of je ouders iets belangrijk vinden, mogen jullie dat altijd vertellen aan de begeleiders.
-- Heb je vragen over hoe het gaat in de groep? Dan mag je dat zeker vragen!
+  - Heb je vragen over hoe het gaat in de groep? Dan mag je dat zeker vragen!
+
+  <img src="/assets/images/leefgroep-1/Titelblok 3.png" alt="Leefgroep 1" class="highlight-image">
 
 ## Hoe ziet onze leefgroep eruit?
 
 Buiten hebben we een mooi speelplein, een trampoline, fietsen en ander buitenspeelgoed. Onze leefgroep ligt ook dicht bij het bos.
 
+<div class="image-grid-2">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (1.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (1.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
+
 In onze leefgroep hebben wij een grote speelzaal waar je kan spelen met Lego, poppen, gezelschapsspelletjes, multimedia, …
+
+<div class="image-grid-2">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (2.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (2.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
 
 We hebben ook een living, eettafel en keuken.
 
@@ -69,13 +84,25 @@ Als je in De Zandberg slaapt, dan krijg je een eigen kamer; je kan deze inrichte
 
 Je krijgt een eigen dierensymbool. In de leefgroep vind je deze dieren ook terug om alles wat van jou is te herkennen. Zo hangt er een dierensymbooltje bij de kapstok, de schoenkast, de boekentassen, je persoonlijke schuif, je kamer, je snoepdoos, ...
 
+<div class="image-grid-2">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (3.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (3.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
+
 De begeleiders helpen voor sommige spulletjes zorgen zoals snoep of duurder materiaal (zoals multimedia). Kinderen vanaf 11 jaar die een gsm hebben, mogen die meebrengen en gebruiken volgens de afspraken.
 
 <div style="text-align: center; margin: 30px 0;">
-  <a href="/ons-aanbod/groep-1/dagverloop" class="btn-primary">🏫 Bekijk hier een schooldag in De Zandberg</a>
+  <a href="/ons-aanbod/groep-1/dagverloop" class="btn-primary" target="_blank" rel="noopener noreferrer">🏫 Bekijk hier een schooldag in De Zandberg</a>
 </div>
 
 Op woensdagnamiddag doen we altijd een activiteit of een uitstap.
+
+<div class="image-grid-4">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.1).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.2).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.3).jpg" alt="Leefgroep 1" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-1/Titelblok 4 (4.4).jpg" alt="Leefgroep 1" class="highlight-image-small">
+</div>
 
 Sommige kinderen gaan in het weekend niet naar huis: dan is er veel vrije tijd en af en toe ook een activiteit of uitstapje. Op zondag maken we soms zelf het middageten klaar met de begeleider.
 
@@ -99,6 +126,8 @@ Met toestemming van je ouders, praat de sociale dienst soms ook met andere mense
 - Wie jou brengt of haalt,
 - En of je nog iets nodig hebt zoals kledij of materiaal.
 
+<img src="/assets/images/leefgroep-1/Titelblok 5.png" alt="Leefgroep 1" class="highlight-image">
+
 ## Gesprekken met de psycholoog
 
 Ongeveer **één keer per week** heb je een moment met de **psycholoog**. Dat is iemand die goed luistert en je helpt om je gevoelens te begrijpen.
@@ -108,6 +137,8 @@ Ongeveer **één keer per week** heb je een moment met de **psycholoog**. Dat is
 - Je mag ook zeggen wat je vindt van de hulp die je krijgt.
 
 We vinden het heel belangrijk dat **jij mag meepraten** over wat er met je gebeurt. Het is jouw verhaal, dus jouw mening telt!
+
+<img src="/assets/images/leefgroep-1/Titelblok 6.png" alt="Leefgroep 1" class="highlight-image">
 
 ## Wat met school?
 
@@ -121,6 +152,8 @@ We werken dan samen met deze scholen:
 - **De Loopbrug Snellegem**
 
 Heb je het moeilijk op school of zijn er zorgen? Dan praten wij samen met jou, je ouders en de school om te kijken hoe we kunnen helpen.
+
+<img src="/assets/images/leefgroep-1/Titelblok 7.png" alt="Leefgroep 1" class="highlight-image">
 
 ## Hoe blijf je in contact met je ouders?
 
@@ -140,6 +173,8 @@ Als je bij ons bent via de **jeugdrechter**, dan houden we ons aan de regels die
 Soms bouwen we het contact stap voor stap op, zodat het rustig en goed verloopt.
 
 En weet je? De leefgroep is **altijd bereikbaar via telefoon**. Dus je ouders kunnen bellen als ze vragen hebben – of als jij hen even wil spreken.
+
+<img src="/assets/images/leefgroep-1/Titelblok 8.png" alt="Leefgroep 1" class="highlight-image">
 
   </div>
 </div>
