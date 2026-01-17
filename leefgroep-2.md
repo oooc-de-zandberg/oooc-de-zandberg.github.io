@@ -2,6 +2,7 @@
 layout: page
 title: Leefgroep 2
 permalink: /ons-aanbod/groep-2
+enable_lightbox: true
 ---
 
 Heb je vragen over onze werking? We geven de meest gestelde vragen al eens op een rijtje. Tijdens het traject staat de begeleiding voor je klaar en kan je bij hen terecht voor verdere vragen!
@@ -57,6 +58,12 @@ Welke hulp jij krijgt, hangt af van jouw situatie. We beslissen dat altijd samen
 
 Je zal het meeste contact hebben met de **leefgroepbegeleiders**. Zes vaste begeleiders (en één coördinator) zijn aanwezig in de leefgroep via een beurtsysteem. De begeleiders nemen de dagelijkse zorg op zich. Je kan bij hen terecht voor allerlei vragen, opmerkingen of steun. Zij organiseren ook momenten waar je kan ontspannen aan de hand van sport, spel of creativiteit. Wanneer je van thuis uit begeleiding krijgt, zal je één van deze begeleiders leren kennen.
 
+<div class="image-grid-3">
+  <img src="/assets/images/leefgroep-2/Begeleiders 1.jpg" alt="Leefgroep 2" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Begeleiders 2.jpg" alt="Leefgroep 2" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Begeleiders 3.jpg" alt="Leefgroep 2" class="highlight-image-small">
+</div>
+
 Je zal ook af en toe contact hebben met de **psychologische dienst**. Zij zullen je één keer per week uitnodigen voor een gesprek. Je kan jouw problemen en bezorgdheden bespreken en nadenken over voorstellen voor de toekomst.
 
 De **sociale dienst**, of contextbegeleider, zal vooral contact hebben met de mensen rondom je. Ze leggen contact met je familie, de jeugdrechtbank, het OCJ, de school, …  Niet alleen jij krijgt dus hulp, ook je ouders, familie of mensen die belangrijk voor je zijn kunnen met ons praten. Samen bekijken ze: wat er moeilijk loopt thuis, hoe dat komt, wat er kan gedaan worden om het beter te maken, wie nog kan helpen. De sociale dienst regelt ook praktische dingen zoals: bezoeken en weekends.
@@ -69,11 +76,24 @@ Voor de meeste jongeren duurt een verblijf drie maanden. Dit wordt beslist samen
 
 Indien je in een crisissituatie opgenomen wordt bij ons, verblijf je hier 2 weken. Ook deze periode kan verlengd worden.
 
+<div class="image-grid-3">
+  <img src="/assets/images/leefgroep-2/Hoe lang blijven 1.jpg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Hoe lang blijven 2.jpg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Hoe lang blijven 3.jpg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
+</div>
+
 Wanneer er sprake is van een ambulante begeleiding duurt de begeleiding 45 dagen tot 120 dagen, afhankelijk van de vragen en de tijd die er nodig is deze te beantwoorden. De duur van de begeleiding wordt dan samen afgesproken.
 
 ## Heb ik een eigen kamer?
 
 Je hebt een eigen kamer in De Zandberg! Elk meisje heeft haar eigen kamer waar je tot rust kan komen. Op kamer heb je een eenpersoonsbed, kast, lavabo en bureau. Deze ruimte zien wij als privé. Het is dus niet de bedoeling dat andere meisjes op jouw kamer komen, maar ook bezoekers zijn er niet welkom. Begeleiders kloppen ook altijd eerst aan voordat zij binnenkomen.
+
+<div class="image-grid-4">
+  <img src="/assets/images/leefgroep-2/Kamer 1.jpg" alt="Kamer" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Kamer 2.jpg" alt="Kamer" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Kamer 3.jpg" alt="Kamer" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Kamer 4.jpg" alt="Kamer" class="highlight-image-small">
+</div>
 
 ## Wat breng ik mee als ik in De Zandberg moet verblijven?
 
@@ -132,6 +152,11 @@ Om misverstanden te voorkomen vragen we je om de was die je indient, te noteren 
 
 In de living hebben we een televisie. Vooral tijdens de vaste avondmomenten en in het weekend kan er tv gekeken worden. Het is dan in samenspraak met de groep te beslissen wat jullie graag willen kijken. We hebben in de leefgroep ook een Netflix abonnement zodat jullie je favoriete series of films niet hoeven te missen.
 
+<div class="image-grid-2">
+  <img src="/assets/images/leefgroep-2/Tv kijken 1.jpg" alt="TV Kijken" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/TV Kijken 2.jpg" alt="TV Kijken" class="highlight-image-small">
+</div>
+
 ## Mag ik mijn gsm bijhouden?
 
 Jullie gsm mogen jullie bijhouden. Ook ‘s nachts. We hanteren 6 aandachtspunten bij het gsm-gebruik:
@@ -148,6 +173,20 @@ Daarnaast vinden we het extra belangrijk dat jullie steeds bereikbaar zijn. Dit 
 ## Wat kan ik allemaal doen bij jullie?
 
 Je kan hier van alles doen. We hebben een kleine fitnessruimte als je houdt van sport. Een danszaal waar je je kan uitleven op muziek. Een crealokaal om te knutselen. We hebben veel gezelschapspelletjes en puzzels. Maar we hebben ook Air-Hockey, Singstar, de Wii en Netflix. Buiten hebben we ook een trampoline en een tennisveld.
+
+
+<div class="image-grid-3">
+  <img src="/assets/images/leefgroep-2/Wat te doen 1.jpg" alt="Wat te doen in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Wat te doen 2.jpg" alt="Wat te doen in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Wat te doen 3.jpg" alt="Wat te doen in De Zandberg?" class="highlight-image-small">
+</div>
+
+
+<div class="image-grid-3">
+  <img src="/assets/images/leefgroep-2/Wat te doen 4.jpg" alt="Wat te doen in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Wat te doen 5.jpg" alt="Wat te doen in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Wat te doen 6.jpg" alt="Wat te doen in De Zandberg?" class="highlight-image-small">
+</div>
 
 ## Mogen er vrije uren gevraagd worden (op woensdag)?
 

@@ -696,6 +696,36 @@ body {
   }
 }
 
+.image-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin: 20px 0;
+  
+  img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  @media screen and (max-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    
+    img {
+      height: 250px;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    grid-template-columns: 1fr;
+    
+    img {
+      height: auto;
+    }
+  }
+}
+
 .image-grid-4 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
