@@ -391,8 +391,8 @@ body {
   }
 }
 
-// Mobile adjustments
-@media screen and (max-width: 600px) {
+// Mobile and tablet adjustments (hamburger menu)
+@media screen and (max-width: 900px) {
   .site-nav {
     // Override Minima's mobile positioning
     position: absolute;
