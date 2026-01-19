@@ -160,7 +160,7 @@ permalink: /ons-aanbod/groep-1/dagverloop
         <div class="bedtime-details">
           <ul>
             <li>Kleuters: na wasmoment</li>
-            <li>1° lj. t.e.m. 8 jaar: 20u</li>
+            <li>1° lj. - 8 jaar: 20u</li>
             <li>9-10 jaar: 20u30</li>
             <li>11-12 jaar: 21u</li>
           </ul>
