@@ -116,7 +116,7 @@ permalink: /ons-aanbod/groep-1/dagverloop
   <div class="schedule-item">
     <div class="schedule-content">
       <div class="schedule-text">
-        <div class="schedule-emoji">🎮</div>
+        <div class="schedule-emoji">⚽</div>
         <h3>Vrije tijd</h3>
         <!-- <p>Ontspannen met spelletjes, tv kijken of kletsen.</p> -->
       </div>
