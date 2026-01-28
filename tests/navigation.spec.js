@@ -14,8 +14,6 @@ test.describe('Navigation', () => {
 
   for (const pageInfo of pages) {
     test(`should load ${pageInfo.name} page`, async ({ page }) => {
-      await page.goto(pageInfo.path);
-      
       // Check that the page loads successfully (status 200)
       const response = await page.goto(pageInfo.path);
       expect(response?.status()).toBe(200);
@@ -27,9 +25,8 @@ test.describe('Navigation', () => {
     
     // Find and click on a navigation link
     const missionLink = page.locator('a[href*="missie"]').first();
-    if (await missionLink.isVisible()) {
-      await missionLink.click();
-      await expect(page).toHaveURL(/missie/);
-    }
+    await expect(missionLink).toBeVisible();
+    await missionLink.click();
+    await expect(page).toHaveURL(/missie/);
   });
 });
