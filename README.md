@@ -45,49 +45,7 @@ This will start a local server at `http://localhost:4000`.
 
 ## Testing
 
-This project uses [Playwright](https://playwright.dev/) for automated end-to-end testing.
-
-### Prerequisites for Testing
-
-- Node.js version 18 or higher
-- npm
-
-### Installing Test Dependencies
-
-```bash
-npm install
-```
-
-### Running Tests
-
-Run all tests:
-
-```bash
-npm test
-```
-
-Run tests in headed mode (with browser UI):
-
-```bash
-npm run test:headed
-```
-
-Run tests in UI mode (interactive):
-
-```bash
-npm run test:ui
-```
-
-### Continuous Integration
-
-Tests are automatically run on GitHub Actions for all pushes and pull requests to the main branch. The workflow:
-
-1. Sets up Ruby and builds the Jekyll site
-2. Sets up Node.js and installs Playwright
-3. Runs all Playwright tests
-4. Uploads test reports as artifacts
-
-Test reports are retained for 30 days and can be downloaded from the Actions tab.
+This project uses automated end-to-end testing with Playwright. For detailed information on running and writing tests, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Theme Customization
 
