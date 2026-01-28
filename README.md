@@ -43,6 +43,10 @@ bundle exec jekyll serve
 
 This will start a local server at `http://localhost:4000`.
 
+## Testing
+
+This project uses automated end-to-end testing with Playwright. For detailed information on running and writing tests, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Theme Customization
 
 The site uses a customized version of the Minima theme. Custom styles can be found in:
