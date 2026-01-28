@@ -49,11 +49,11 @@ npm run test:ui
 
 ### Continuous Integration
 
-Tests are automatically run on GitHub Actions for all pushes and pull requests to the main branch. The workflow:
+Tests are automatically run on GitHub Actions for all pushes and pull requests to the main/master branch. The workflow:
 
-1. Sets up Ruby and builds the Jekyll site
+1. Sets up Ruby and installs Jekyll dependencies via Bundler
 2. Sets up Node.js and installs Playwright
-3. Runs all Playwright tests
+3. Runs all Playwright tests (which automatically starts the Jekyll server)
 4. Uploads test reports as artifacts
 
 Test reports are retained for 30 days and can be downloaded from the Actions tab.
