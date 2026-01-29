@@ -9,7 +9,7 @@ test.describe('Steun Ons Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/steun-ons/');
-    await expect(page.locator('h1, h2').filter({ hasText: /Steun ons/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /Steun ons/i }).first()).toBeVisible();
   });
 
   test('should have support information', async ({ page }) => {

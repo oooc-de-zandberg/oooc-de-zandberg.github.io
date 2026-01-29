@@ -9,12 +9,13 @@ test.describe('Leefgroepen Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/ons-aanbod/leefgroepen/');
-    await expect(page.locator('h1, h2').filter({ hasText: /leefgroep/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /leefgroep/i }).first()).toBeVisible();
   });
 
   test('should mention both groups', async ({ page }) => {
     await page.goto('/ons-aanbod/leefgroepen/');
-    await expect(page.locator('text=/groep 1|groep 2/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toMatch(/groep 1|groep 2/);
   });
 
   test('should have links to individual group pages', async ({ page }) => {

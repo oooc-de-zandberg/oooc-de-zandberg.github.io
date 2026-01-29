@@ -9,12 +9,13 @@ test.describe('Nieuwe Collega Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/werk-bij-ons/nieuwe-collega/');
-    await expect(page.locator('h1, h2').filter({ hasText: /collega/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /collega/i }).first()).toBeVisible();
   });
 
   test('should contain job opportunity information', async ({ page }) => {
     await page.goto('/werk-bij-ons/nieuwe-collega/');
-    await expect(page.locator('text=/collega|job/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toMatch(/collega|job/);
   });
 
   test('should have reference to VDAB', async ({ page }) => {

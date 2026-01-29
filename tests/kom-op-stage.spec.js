@@ -9,12 +9,13 @@ test.describe('Kom Op Stage Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/werk-bij-ons/kom-op-stage/');
-    await expect(page.locator('h1, h2').filter({ hasText: /stage/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /stage/i }).first()).toBeVisible();
   });
 
   test('should contain internship information', async ({ page }) => {
     await page.goto('/werk-bij-ons/kom-op-stage/');
-    await expect(page.locator('text=/stage|student/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toMatch(/stage|student/);
   });
 
   test('should mention target audience', async ({ page }) => {

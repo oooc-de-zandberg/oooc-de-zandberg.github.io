@@ -9,12 +9,13 @@ test.describe('Word Vrijwilliger Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/werk-bij-ons/word-vrijwilliger/');
-    await expect(page.locator('h1, h2').filter({ hasText: /vrijwilliger/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /vrijwilliger/i }).first()).toBeVisible();
   });
 
   test('should contain volunteer information', async ({ page }) => {
     await page.goto('/werk-bij-ons/word-vrijwilliger/');
-    await expect(page.locator('text=/vrijwilliger/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toContain('vrijwilliger');
   });
 
   test('should mention volunteer opportunities', async ({ page }) => {

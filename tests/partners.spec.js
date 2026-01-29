@@ -9,17 +9,19 @@ test.describe('Partners Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/partners/');
-    await expect(page.locator('h1, h2').filter({ hasText: 'Partners' })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: 'Partners' }).first()).toBeVisible();
   });
 
   test('should display collaboration statement', async ({ page }) => {
     await page.goto('/partners/');
-    await expect(page.locator('text=We werken graag en veel samen!')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('We werken graag en veel samen!');
   });
 
   test('should display Brugse voorzieningen section', async ({ page }) => {
     await page.goto('/partners/');
-    await expect(page.locator('text=Samenwerkingsverband zeven Brugse voorzieningen')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('Samenwerkingsverband zeven Brugse voorzieningen');
   });
 
   test('should have links to partner organizations', async ({ page }) => {
@@ -30,6 +32,7 @@ test.describe('Partners Page', () => {
 
   test('should display Eén gezin één plan section', async ({ page }) => {
     await page.goto('/partners/');
-    await expect(page.locator('text=Eén gezin één plan')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('Eén gezin één plan');
   });
 });

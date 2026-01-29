@@ -9,7 +9,7 @@ test.describe('Ons Aanbod Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/ons-aanbod/');
-    await expect(page.locator('h1, h2').filter({ hasText: /Ons aanbod|aanbod/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /Ons aanbod|aanbod/i }).first()).toBeVisible();
   });
 
   test('should have links to different service types', async ({ page }) => {

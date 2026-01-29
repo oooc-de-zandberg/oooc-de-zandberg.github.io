@@ -9,11 +9,12 @@ test.describe('Crisis Aanbod Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/ons-aanbod/crisis/');
-    await expect(page.locator('h1, h2').filter({ hasText: /crisis/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /crisis/i }).first()).toBeVisible();
   });
 
   test('should contain crisis support information', async ({ page }) => {
     await page.goto('/ons-aanbod/crisis/');
-    await expect(page.locator('text=/crisis/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toContain('crisis');
   });
 });

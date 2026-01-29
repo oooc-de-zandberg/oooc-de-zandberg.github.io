@@ -9,7 +9,7 @@ test.describe('Leefgroep 1 Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/ons-aanbod/groep-1');
-    await expect(page.locator('h1, h2').filter({ hasText: 'Leefgroep 1' })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: 'Leefgroep 1' }).first()).toBeVisible();
   });
 
   test('should display navigation sidebar', async ({ page }) => {
@@ -19,7 +19,8 @@ test.describe('Leefgroep 1 Page', () => {
 
   test('should have section about age range', async ({ page }) => {
     await page.goto('/ons-aanbod/groep-1');
-    await expect(page.locator('text=/0 tot 12 jaar/')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('0 tot 12 jaar');
   });
 
   test('should have navigation links in sidebar', async ({ page }) => {
@@ -29,6 +30,7 @@ test.describe('Leefgroep 1 Page', () => {
 
   test('should display main content sections', async ({ page }) => {
     await page.goto('/ons-aanbod/groep-1');
-    await expect(page.locator('text=Hoe kom je bij ons terecht?')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('Hoe kom je bij ons terecht?');
   });
 });

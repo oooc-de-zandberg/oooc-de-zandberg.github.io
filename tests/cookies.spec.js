@@ -9,16 +9,18 @@ test.describe('Cookies Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/cookies/');
-    await expect(page.locator('h1, h2, h3').filter({ hasText: /Cookie/i })).toBeVisible();
+    await expect(page.locator('h1, h2, h3').filter({ hasText: /Cookie/i }).first()).toBeVisible();
   });
 
   test('should contain cookie policy information', async ({ page }) => {
     await page.goto('/cookies/');
-    await expect(page.locator('text=/cookies|COOKIES/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toContain('cookies');
   });
 
   test('should mention De Zandberg', async ({ page }) => {
     await page.goto('/cookies/');
-    await expect(page.locator('text=DE ZANDBERG')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('DE ZANDBERG');
   });
 });

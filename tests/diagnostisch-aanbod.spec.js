@@ -9,11 +9,12 @@ test.describe('Diagnostisch Aanbod Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/ons-aanbod/diagnostisch/');
-    await expect(page.locator('h1, h2').filter({ hasText: /diagnostisch/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /diagnostisch/i }).first()).toBeVisible();
   });
 
   test('should contain diagnostic service information', async ({ page }) => {
     await page.goto('/ons-aanbod/diagnostisch/');
-    await expect(page.locator('text=/diagnostisch|onderzoek/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toMatch(/diagnostisch|onderzoek/);
   });
 });

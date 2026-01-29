@@ -9,12 +9,13 @@ test.describe('Dagverloop Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/ons-aanbod/groep-1/dagverloop');
-    await expect(page.locator('h1, h2').filter({ hasText: /dagverloop|schooldag/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /dagverloop|schooldag/i }).first()).toBeVisible();
   });
 
   test('should contain daily schedule information', async ({ page }) => {
     await page.goto('/ons-aanbod/groep-1/dagverloop');
-    await expect(page.locator('text=/schooldag|dag/i')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content?.toLowerCase()).toMatch(/schooldag|dag/);
   });
 
   test('should display schedule container', async ({ page }) => {

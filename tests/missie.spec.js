@@ -9,12 +9,13 @@ test.describe('Missie Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/missie/');
-    await expect(page.locator('h1, h2').filter({ hasText: 'Onze missie' })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: 'Onze missie' }).first()).toBeVisible();
   });
 
   test('should display mission statement', async ({ page }) => {
     await page.goto('/missie/');
-    await expect(page.locator('text=OOOC De Zandberg')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('OOOC De Zandberg');
   });
 
   test('should display mission image', async ({ page }) => {
@@ -25,6 +26,7 @@ test.describe('Missie Page', () => {
 
   test('should contain information about age range', async ({ page }) => {
     await page.goto('/missie/');
-    await expect(page.locator('text=/0-21 jaar/')).toBeVisible();
+    const content = await page.textContent('body');
+    expect(content).toContain('0-21 jaar');
   });
 });

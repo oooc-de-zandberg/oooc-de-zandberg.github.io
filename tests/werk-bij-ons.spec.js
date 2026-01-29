@@ -9,7 +9,7 @@ test.describe('Werk Bij Ons Page', () => {
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/werk-bij-ons/');
-    await expect(page.locator('h1, h2').filter({ hasText: /Werk bij ons/i })).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: /Werk bij ons/i }).first()).toBeVisible();
   });
 
   test('should have information about working opportunities', async ({ page }) => {
