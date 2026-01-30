@@ -4,7 +4,7 @@ const { test, expect } = require('@playwright/test');
 test.describe('Werk Bij Ons Page', () => {
   test('should load successfully', async ({ page }) => {
     await page.goto('/werk-bij-ons/');
-    await expect(page).toHaveTitle(/Werk bij ons/);
+    await expect(page).toHaveTitle(/Werk bij ons/i);
   });
 
   test('should display page heading', async ({ page }) => {

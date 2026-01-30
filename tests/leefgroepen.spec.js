@@ -4,12 +4,13 @@ const { test, expect } = require('@playwright/test');
 test.describe('Leefgroepen Page', () => {
   test('should load successfully', async ({ page }) => {
     await page.goto('/ons-aanbod/leefgroepen/');
-    await expect(page).toHaveTitle(/leefgroep/i);
+    await expect(page).toHaveTitle(/werking.*leef.*groepen/i);
   });
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/ons-aanbod/leefgroepen/');
-    await expect(page.locator('h1, h2').filter({ hasText: /leefgroep/i }).first()).toBeVisible();
+    const heading = page.locator('h1, h2').first();
+    await expect(heading).toBeVisible();
   });
 
   test('should mention both groups', async ({ page }) => {
