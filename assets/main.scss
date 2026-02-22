@@ -786,10 +786,23 @@ body {
   }
   
   .nav-card-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
     font-size: 36px;
     transition: transform 0.3s ease;
     flex-shrink: 0;
     line-height: 1;
+
+    img {
+      display: block;
+      max-width: 100%;
+      max-height: 100%;
+      margin: 0;
+      object-fit: contain;
+    }
   }
   
   h3 {
