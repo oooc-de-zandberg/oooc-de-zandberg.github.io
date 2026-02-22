@@ -765,20 +765,21 @@ body {
   justify-content: center;
   gap: 12px;
   padding: 25px 20px;
-  background: white;
-  border: 2px solid #e9ecef;
+  background: $primary-color;
+  border: 2px solid $primary-color;
   border-radius: 12px;
   text-decoration: none;
-  color: $text-color;
+  color: white;
   transition: all 0.3s ease;
   min-height: 120px;
   text-align: center;
   
   &:hover {
     text-decoration: none;
-    border-color: $primary-color;
+    background: darken($primary-color, 8%);
+    border-color: darken($primary-color, 8%);
     transform: translateY(-3px);
-    box-shadow: 0 8px 24px rgba(127, 182, 133, 0.2);
+    box-shadow: 0 8px 24px rgba(127, 182, 133, 0.3);
     
     .nav-card-icon {
       transform: scale(1.1);
@@ -802,11 +803,12 @@ body {
       max-height: 100%;
       margin: 0;
       object-fit: contain;
+      filter: brightness(0) invert(1);
     }
   }
   
   h3 {
-    color: $primary-color;
+    color: white;
     margin: 0;
     font-size: 18px;
     line-height: 1.3;
