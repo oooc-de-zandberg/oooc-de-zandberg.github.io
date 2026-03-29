@@ -4,12 +4,12 @@ const { test, expect } = require('@playwright/test');
 test.describe('Missie Page', () => {
   test('should load successfully', async ({ page }) => {
     await page.goto('/missie/');
-    await expect(page).toHaveTitle(/Onze missie/);
+    await expect(page).toHaveTitle(/Onze Missie/);
   });
 
   test('should display page heading', async ({ page }) => {
     await page.goto('/missie/');
-    await expect(page.locator('h1, h2').filter({ hasText: 'Onze missie' }).first()).toBeVisible();
+    await expect(page.locator('h1, h2').filter({ hasText: 'Onze Missie' }).first()).toBeVisible();
   });
 
   test('should display mission statement', async ({ page }) => {
