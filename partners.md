@@ -6,7 +6,7 @@ permalink: /partners/
 
 We werken graag en veel samen!
 
-### Samenwerkingsverband zeven Brugse voorzieningen
+## Samenwerkingsverband zeven Brugse voorzieningen
 
 ![Brugse voorzieningen](/assets/images/partners/brugse-voorzieningen.jpg)
 
@@ -20,7 +20,7 @@ We werken graag en veel samen!
 | De Zandberg | [Website](https://www.zandberg.be){:target="_blank" rel="noopener noreferrer"} |
 | Tronkestik | [Website](https://www.tronkestik.be){:target="_blank" rel="noopener noreferrer"} |
 
-### Eén gezin één plan Noord-West-Vlaanderen
+## Eén gezin één plan Noord-West-Vlaanderen
 
 ![Brugse voorzieningen](/assets/images/partners/één-gezin.png)
 
@@ -28,26 +28,26 @@ We werken graag en veel samen!
 
 [Website "Eén gezin één plan" nationaal](https://www.ééngezin-éénplan.be){:target="_blank" rel="noopener noreferrer"}
 
-### Crisismeldpunt minderjarigen West-Vlaanderen (0 – 18j)
+## Crisismeldpunt minderjarigen West-Vlaanderen (0 – 18j)
 
 ![CAW](/assets/images/partners/caw.jpg)
 
 [Website "CAW"](https://www.caw.be/locaties/crisismeldpunt-minderjarigen-west-vlaanderen/){:target="_blank" rel="noopener noreferrer"}
 
-### Hier kan je terecht voor meer informatie over
+## Hier kan je terecht voor meer informatie over
 
-#### Jongerenrechten
+### Jongerenrechten
 
 ![tzitemzo](/assets/images/partners/tzitemzo.png)
 
 [Website "tzitemzo"](https://tzitemzo.be/){:target="_blank" rel="noopener noreferrer"}
 
-#### Opgroeien
+### Opgroeien
 
 ![Opgroeien](/assets/images/partners/opgroeien.jpg){:target="_blank" rel="noopener noreferrer"}
 
 [Website "Opgroeien"](https://www.opgroeien.be/){:target="_blank" rel="noopener noreferrer"}
 
-#### Opgroeipunt
+### Opgroeipunt
 
 [Website "Opgroeipunt"](https://www.opgroeien.be/opgroeipunt){:target="_blank" rel="noopener noreferrer"}
