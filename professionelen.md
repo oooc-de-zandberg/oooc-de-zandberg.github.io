@@ -45,11 +45,11 @@ Soms loopt de spanning zo hoog op dat een gezin of jongere tijdelijk ondersteuni
 
 Gezien het OOOC inzetbaar is voor verschillende diagnostische vragen en -problematieken en in verschillende fases van de trajecten van minderjaren zijn **onze aanmelders zeer divers**. Aanmelden kan door de brede instroom (CLB, Centrum Ambulante Revalidatie, CGGZ, kind en gezin, …), als door een gemandateerde voorziening (Ondersteuningscentrum Jeugdhulp en Vertrouwenscentrum Kindermishandeling) of door de Sociale Dienst van een Jeugdrechtbank.
 
-Onze ambulante handelingsgerichte diagnostiek is rechtstreeks toegankelijk. Voor aanmeldingen kan je contact opnemen met ons centrum.
+Onze **ambulante** handelingsgerichte diagnostiek is rechtstreeks toegankelijk. Voor aanmeldingen kan je contact opnemen met ons centrum.
 
-Verblijf in functie van handelingsgerichte diagnostiek is niet rechtstreeks toegankelijk. Aanmeldingen gebeuren via de toegangspoort.
+**Verblijf** in functie van handelingsgerichte diagnostiek is niet rechtstreeks toegankelijk. Aanmeldingen gebeuren via de toegangspoort.
 
-Ons crisisaanbod (crisisbegeleiding en/of crisisopvang) wordt georganiseerd en gematcht via het Crisisnetwerk West-Vlaanderen. Er kan dus geen rechtstreekse aanmelding gedaan worden voor crisishulp.
+Ons **crisisaanbod** (crisisbegeleiding en/of crisisopvang) wordt georganiseerd en gematcht via het Crisisnetwerk West-Vlaanderen. Er kan dus geen rechtstreekse aanmelding gedaan worden voor crisishulp.
 
 **Wens je als professionele hulpverlener graag aan te melden of een dossier voor te leggen?** Dan kan je contact opnemen met de sociale dienst:
 
@@ -58,7 +58,7 @@ Ons crisisaanbod (crisisbegeleiding en/of crisisopvang) wordt georganiseerd en g
 
 ## Rol van de aanmelder doorheen het diagnostisch traject?
 
-Wij vertrekken vanuit de bijschakelgedachte, wat betekent dat het OOOC tijdelijk betrokken wordt om het traject te onderbouwen en handelingsgerichte adviezen te formuleren, waarmee de aanmelder samen met minderjarige en context verder aan de slag kan. Aanmelders zijn en blijven daarom cruciale partners in het diagnostisch of crisis traject. We rekenen dan ook op een actieve betrokkenheid van de aanmelders bij opstart, tijdens en bij afsluit van het traject. Bij aanvang van het traject worden hierover afspraken gemaakt.
+Wij vertrekken vanuit de bijschakelgedachte, wat betekent dat het OOOC tijdelijk betrokken wordt om het traject te onderbouwen en handelingsgerichte adviezen te formuleren, waarmee de aanmelder samen met minderjarige en context verder aan de slag kan. Aanmelders zijn en blijven daarom cruciale partners in het diagnostisch of crisis traject. We rekenen dan ook op een **actieve betrokkenheid** van de aanmelders bij opstart, tijdens en bij afsluit van het traject. Bij aanvang van het traject worden hierover afspraken gemaakt.
 
 Indien de aanmelder niet in staat is om betrokken te blijven, zoeken wij samen naar iemand die deze rol wel kan opnemen.
 
@@ -66,8 +66,8 @@ Indien de aanmelder niet in staat is om betrokken te blijven, zoeken wij samen n
 
 ## Financiële implicaties? {#financiële-implicaties}
 
-Ambulante diagnostiek is kosteloos voor de betrokkenen.
-Verblijf wordt bekostigd via de Vlaamse Gemeenschap en aan de ouders vraagt de overheid in deze situatie een bijdrage via een gedeelte van de kinderbijslag.
+Ambulante diagnostiek is **kosteloos** voor de betrokkenen.
+Verblijf wordt bekostigd via de Vlaamse Gemeenschap en aan de ouders vraagt de overheid in deze situatie een **bijdrage via een gedeelte van de kinderbijslag**.
 
 Crisishulp is ook kosteloos voor de betrokkenen.
 

@@ -510,7 +510,7 @@ body {
 .page-with-sidebar {
   max-width: 800px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0;
   
   @media screen and (max-width: 900px) {
     padding: 0 15px;
@@ -600,18 +600,6 @@ body {
 
 .page-main-content {
   
-  h2 {
-    scroll-margin-top: 100px; // Account for sticky header
-    color: $primary-color;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid #e1e5e9;
-    
-    &:first-child {
-      margin-top: 0;
-    }
-  }
   
   p {
     margin-bottom: 15px;
@@ -620,6 +608,19 @@ body {
 }
 
 .post-content {
+  
+  h2 {
+    scroll-margin-top: 100px; // Account for sticky header
+    margin-top: 40px;
+    color: $primary-color;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e1e5e9;
+    
+    &:first-child {
+      margin-top: 0;
+    }
+  }
   
   p {
     text-align: justify;
