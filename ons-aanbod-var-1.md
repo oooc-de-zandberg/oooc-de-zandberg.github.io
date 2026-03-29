@@ -11,7 +11,7 @@ permalink: /ons-aanbod-variant-1/
   .nav-card-icon img { filter: brightness(0) invert(1) !important; }
 </style>
 
-Ontdek hieronder ons aanbod voor kinderen, jongeren en hun context:
+Ontdek hieronder ons aanbod voor kinderen, jongeren en hun context, test:
 
 <div class="card-grid">
   <a href="/ons-aanbod/diagnostisch/" class="nav-card">
