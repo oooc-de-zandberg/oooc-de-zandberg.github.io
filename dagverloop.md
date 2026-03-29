@@ -164,7 +164,7 @@ permalink: /ons-aanbod/groep-1/dagverloop
             <li>9 - 10 jaar: 20u30</li>
             <li>11 - 12 jaar: 21u</li>
           </ul>
-          <p class="bedtime-note">💡 In weekends/vakantie mag je een halfuur langer opblijven.</p>
+          <p class="bedtime-note">💡 In weekends/vakantie mag je vanaf het 1° leerjaar een halfuur langer opblijven.</p>
         </div>
       </div>
       <div class="schedule-visual">
