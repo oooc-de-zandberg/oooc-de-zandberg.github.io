@@ -78,8 +78,8 @@ Indien je in een crisissituatie opgenomen wordt bij ons, verblijf je hier 2 weke
 
 <div class="image-grid-3">
   <img src="/assets/images/leefgroep-2/Hoe lang blijven 1.jpg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
-  <img src="/assets/images/leefgroep-2/Hoe lang blijven 2.jpg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
-  <img src="/assets/images/leefgroep-2/Hoe lang blijven 3.jpg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Hoe lang blijven 2.jpeg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/Hoe lang blijven 3.jpeg" alt="Hoe lang blijf ik in De Zandberg?" class="highlight-image-small">
 </div>
 
 Wanneer er sprake is van een ambulante begeleiding duurt de begeleiding 45 dagen tot 120 dagen, afhankelijk van de vragen en de tijd die er nodig is deze te beantwoorden. De duur van de begeleiding wordt dan samen afgesproken.
@@ -88,12 +88,14 @@ Wanneer er sprake is van een ambulante begeleiding duurt de begeleiding 45 dagen
 
 Je hebt een eigen kamer in De Zandberg! Elk meisje heeft haar eigen kamer waar je tot rust kan komen. Op kamer heb je een eenpersoonsbed, kast, lavabo en bureau. Deze ruimte zien wij als privé. Het is dus niet de bedoeling dat andere meisjes op jouw kamer komen, maar ook bezoekers zijn er niet welkom. Begeleiders kloppen ook altijd eerst aan voordat zij binnenkomen.
 
-<div class="image-grid-4">
-  <img src="/assets/images/leefgroep-2/Kamer 1.jpg" alt="Kamer" class="highlight-image-small">
-  <img src="/assets/images/leefgroep-2/Kamer 2.jpg" alt="Kamer" class="highlight-image-small">
-  <img src="/assets/images/leefgroep-2/Kamer 3.jpg" alt="Kamer" class="highlight-image-small">
-  <img src="/assets/images/leefgroep-2/Kamer 4.jpg" alt="Kamer" class="highlight-image-small">
+<img src="/assets/images/leefgroep-2/kamer g2 1.jpeg" alt="Kamer" class="highlight-image">
+
+<div class="image-grid-3">
+  <img src="/assets/images/leefgroep-2/kamer g2 2.jpeg" alt="Kamer" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/kamer g2 3.jpeg" alt="Kamer" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/kamer g2 4.jpeg" alt="Kamer" class="highlight-image-small">
 </div>
+
 
 ## Wat breng ik mee als ik in De Zandberg moet verblijven?
 
@@ -154,7 +156,7 @@ In de living hebben we een televisie. Vooral tijdens de vaste avondmomenten en i
 
 <div class="image-grid-2">
   <img src="/assets/images/leefgroep-2/Tv kijken 1.jpg" alt="TV Kijken" class="highlight-image-small">
-  <img src="/assets/images/leefgroep-2/TV kijken 2.jpg" alt="TV Kijken" class="highlight-image-small">
+  <img src="/assets/images/leefgroep-2/TV kijken 3.jpg" alt="TV Kijken" class="highlight-image-small">
 </div>
 
 ## Mag ik mijn gsm bijhouden?
