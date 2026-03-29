@@ -604,6 +604,10 @@ body {
   p {
     margin-bottom: 15px;
     text-align: justify;
+    
+    @media screen and (max-width: 768px) {
+      text-align: left;
+    }
   }
 }
 
@@ -624,6 +628,10 @@ body {
   
   p {
     text-align: justify;
+    
+    @media screen and (max-width: 768px) {
+      text-align: left;
+    }
   }
   
   img {
