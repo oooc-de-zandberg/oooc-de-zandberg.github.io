@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Onze missie
+title: Onze Missie
 permalink: /missie/
 ---
 
