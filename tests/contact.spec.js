@@ -36,6 +36,14 @@ test.describe('Contact Page', () => {
     const image = page.locator('img').first();
     await expect(image).toBeVisible();
   });
+
+  test('should display the Google Maps embed', async ({ page }) => {
+    await page.goto('/contact/');
+    const mapFrame = page.locator('.responsive-map iframe');
+
+    await expect(mapFrame).toBeVisible();
+    await expect(mapFrame).toHaveAttribute('src', /google\.com\/maps\/embed/);
+  });
 });
 
 

@@ -682,6 +682,29 @@ body {
   }
 }
 
+.responsive-map {
+  width: 100%;
+  max-width: 100%;
+  margin: 24px auto 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+  iframe {
+    display: block;
+    width: 100%;
+    min-height: 320px;
+    aspect-ratio: 4 / 3;
+    border: 0;
+  }
+
+  @media screen and (max-width: 480px) {
+    iframe {
+      min-height: 280px;
+    }
+  }
+}
+
 // Image grid layouts for small images
 .image-grid-2 {
   display: grid;
