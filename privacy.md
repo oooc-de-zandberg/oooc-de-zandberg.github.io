@@ -2,6 +2,7 @@
 layout: page
 title: Privacyverklaring
 permalink: /privacy/
+description: "Privacyverklaring van OOOC De Zandberg: hoe wij omgaan met uw persoonsgegevens conform de GDPR-wetgeving."
 ---
 
 Uw privacy is belangrijk voor ons. Wij willen transparant zijn omtrent de persoonsgegevens die wij verzamelen, waarom wij die verzamelen en wat er met deze gegevens gebeurt. Lees deze Privacy disclaimer aandachtig door, want het bevat essentiële informatie over Uw rechten als betrokkene en over de manier waarop Uw persoonsgegevens worden verwerkt.

@@ -1,10 +1,15 @@
 # Site settings
-title: De Zandberg
+title: OOOC De Zandberg
 email: info@zandberg.be
 description: >-
-  Gemaakt door Tom Kerkhove.
+  OOOC De Zandberg is een onthaal-, oriëntatie- en observatiecentrum (OOOC) voor kinderen en jongeren
+  in Varsenare bij Brugge. Wij bieden diagnostiek, crisisopvang en begeleiding in de jeugdhulp,
+  erkend door het Agentschap Opgroeien.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://preview.zandberg.be"
+lang: nl-BE
+logo: /assets/images/logos/transparant.png
+tagline: Jeugdvoorziening in Brugge – diagnostiek, crisisopvang en begeleiding
 
 # Build settings
 markdown: kramdown
@@ -12,6 +17,7 @@ theme: minima # Using the minima theme which is Jekyll's default
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 facebook_username: ooocdezandberg
 

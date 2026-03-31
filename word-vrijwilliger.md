@@ -2,6 +2,7 @@
 layout: page
 title: Word vrijwilliger in onze werking
 permalink: /werk-bij-ons/word-vrijwilliger/
+description: "Word vrijwilliger bij OOOC De Zandberg in Varsenare bij Brugge. Help mee aan een warme en veilige omgeving voor jongeren in de jeugdhulp."
 ---
 
 ## Word vrijwilliger in onze werking – een klein gebaar, een groot verschil

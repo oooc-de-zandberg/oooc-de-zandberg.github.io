@@ -2,6 +2,7 @@
 layout: page
 title: Word jij onze nieuwe collega?
 permalink: /werk-bij-ons/nieuwe-collega/
+description: "Vacatures bij OOOC De Zandberg: werk in de jeugdzorg in Brugge. Bekijk onze openstaande jobs en solliciteer via VDAB."
 ---
 
 Ben je aangetrokken tot een (studenten)job in de jeugdzorg en heb je een groot hart voor kinderen, jongeren en hun contexten? Kom dan mee ons team versterken!

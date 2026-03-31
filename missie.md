@@ -2,6 +2,7 @@
 layout: page
 title: Onze Missie
 permalink: /missie/
+description: "Ontdek de missie en visie van OOOC De Zandberg. Wij ondersteunen kinderen, jongeren en gezinnen in Brugge en West-Vlaanderen via diagnostiek, crisisopvang en begeleiding."
 ---
 
 Soms hebben cliënten en aanmelders het gevoel het niet meer te weten. OOOC De Zandberg kijkt dan graag met hen mee hoe we de knoop kunnen ontwarren zodat ze weer verder kunnen.

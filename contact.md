@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+description: "Contacteer OOOC De Zandberg: Zeeweg 36, 8490 Varsenare bij Brugge. Telefoon 050/40.66.80, e-mail info@zandberg.be. Bereikbaar met openbaar vervoer."
 ---
 
 <img src="/assets/images/contact.jpg" alt="Contact" class="highlight-image">
