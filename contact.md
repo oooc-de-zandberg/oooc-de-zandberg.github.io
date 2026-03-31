@@ -45,7 +45,7 @@ Ine Berlo<br/>
 
 **Voorzitter vzw:** Dhr. Yves Keppens
 
-# Bereikbaarheid?
+## Bereikbaarheid?
 
 De Zandberg is bereikbaar met het openbaar vervoer en er is parkeermogelijkheid op het domein zelf.
 
