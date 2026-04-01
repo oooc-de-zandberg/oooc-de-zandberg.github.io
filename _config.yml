@@ -4,7 +4,10 @@ email: info@zandberg.be
 description: >-
   Gemaakt door Tom Kerkhove.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.zandberg.be"
+lang: nl-BE
+logo: /assets/images/logos/transparant.png
+tagline: Jeugdvoorziening in Brugge – diagnostiek, crisisopvang en begeleiding
 
 # Build settings
 markdown: kramdown
@@ -12,6 +15,7 @@ theme: minima # Using the minima theme which is Jekyll's default
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 facebook_username: ooocdezandberg
 

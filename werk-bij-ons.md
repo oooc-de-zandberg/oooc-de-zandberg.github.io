@@ -2,6 +2,7 @@
 layout: page
 title: Werk bij Ons
 permalink: /werk-bij-ons/
+description: "Werken bij OOOC De Zandberg in Varsenare bij Brugge: ontdek vacatures, stageplaatsen en vrijwilligerswerk in de jeugdhulp en jeugdzorg."
 ---
 
 Wil je mee onze werking versterken?

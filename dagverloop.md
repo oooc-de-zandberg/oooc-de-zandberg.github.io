@@ -2,6 +2,7 @@
 layout: page
 title: Een schooldag in De Zandberg
 permalink: /ons-aanbod/groep-1/dagverloop
+description: "Hoe ziet een schooldag eruit in OOOC De Zandberg? Ontdek het dagverloop van onze jongeren in leefgroep 1 in Varsenare."
 ---
 
 <div class="daily-schedule-vertical">

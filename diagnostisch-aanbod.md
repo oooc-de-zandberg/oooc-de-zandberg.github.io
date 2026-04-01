@@ -2,6 +2,7 @@
 layout: page
 title: Ons diagnostisch aanbod
 permalink: /ons-aanbod/diagnostisch/
+description: "Diagnostisch onderzoek bij OOOC De Zandberg: observatie en oriëntatie voor kinderen en jongeren. Binnen 45 tot 120 dagen een gericht advies naar verdere hulpverlening."
 ---
 
 Soms hebben cliënten en aanmelders het gevoel het niet meer te weten. Wij kijken dan graag even met hen mee. Samen onderzoeken we welke vorm van hulp het beste aansluit bij de jongere en zijn of haar context. We zoeken samen naar de betekenis van de problemen en mogelijke oplossingen die groei- en ontwikkelingskansen bieden. Op basis van ons onderzoek geven we een gericht advies naar verdere hulp. We streven ernaar om binnen een korte periode (45 tot 120 dagen) antwoord te bieden op drie belangrijke vragen:

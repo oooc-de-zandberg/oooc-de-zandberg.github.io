@@ -2,6 +2,7 @@
 layout: page
 title: Cookie Policy
 permalink: /cookies/
+description: "Cookie policy van OOOC De Zandberg: informatie over het gebruik van cookies op onze website."
 ---
 
 ### 1. GEBRUIK VAN COOKIES

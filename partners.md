@@ -2,6 +2,7 @@
 layout: page
 title: Partners
 permalink: /partners/
+description: "De partners en samenwerkingsverbanden van OOOC De Zandberg: Brugse jeugdvoorzieningen, Één Gezin Één Plan, CAW en andere organisaties in de jeugdhulp."
 ---
 
 We werken graag en veel samen!
