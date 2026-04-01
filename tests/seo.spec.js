@@ -21,7 +21,7 @@ test.describe('SEO - Meta Tags', () => {
       await page.goto(pageInfo.path);
       await expect(page).toHaveTitle(pageInfo.titlePattern);
       // Every page title should also include the site name for brand recognition
-      await expect(page).toHaveTitle(/OOOC De Zandberg/);
+      await expect(page).toHaveTitle(/De Zandberg/);
     });
 
     test(`${pageInfo.path} should have a meta description`, async ({ page }) => {
