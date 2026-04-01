@@ -2,6 +2,7 @@
 layout: page
 title: Ons crisisaanbod
 permalink: /ons-aanbod/crisis/
+description: "Crisisopvang bij OOOC De Zandberg: snelle, kortdurende en intensieve hulp voor jongeren en gezinnen in crisissituaties in de regio Brugge en West-Vlaanderen."
 ---
 
 Soms loopt de spanning zo hoog op dat een gezin of jongere tijdelijk ondersteuning nodig heeft. Een jongere en zijn of haar context komt in een crisissituatie terecht. In zo'n crisissituatie bieden wij hulp die snel, kortdurend en intensief is.

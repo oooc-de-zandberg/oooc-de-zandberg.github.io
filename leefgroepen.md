@@ -2,6 +2,7 @@
 layout: page
 title: Onze werking verdeeld in twee (leef)groepen
 permalink: /ons-aanbod/leefgroepen/
+description: "De leefgroepwerking van OOOC De Zandberg: twee groepen voor kinderen (0-12 jaar) en jongeren (12-21 jaar) met residentiële begeleiding in Varsenare bij Brugge."
 ---
 
 Onze organisatie heeft twee (leef)groepswerkingen. De leefgroepen worden samengesteld op basis van leeftijd.

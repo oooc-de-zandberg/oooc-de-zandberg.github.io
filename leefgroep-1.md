@@ -3,6 +3,7 @@ layout: page
 title: Leefgroep 1
 permalink: /ons-aanbod/groep-1
 enable_lightbox: true
+description: "Leefgroep 1 van OOOC De Zandberg: begeleiding voor jongens en meisjes van 0 tot 12 jaar in een warme, veilige leefomgeving in Varsenare bij Brugge."
 ---
 
 <div class="page-with-sidebar">

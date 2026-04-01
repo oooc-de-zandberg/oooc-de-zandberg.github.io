@@ -2,6 +2,7 @@
 layout: page
 title: Steun Ons
 permalink: /steun-ons/
+description: "Steun OOOC De Zandberg: help onze jongeren groeien met een gift of sponsoring. Elke bijdrage maakt een verschil voor kinderen en jongeren in de jeugdhulp."
 ---
 
 ## Help onze jongeren groeien – elke bijdrage telt

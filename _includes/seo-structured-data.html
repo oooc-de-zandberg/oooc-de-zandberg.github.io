@@ -1,0 +1,42 @@
+<!-- Enhanced structured data for local business SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "OOOC De Zandberg",
+  "alternateName": ["De Zandberg", "De Zandberg vzw", "Onthaal-, Oriëntatie- en Observatiecentrum De Zandberg"],
+  "description": "{{ site.description | strip_newlines | strip }}",
+  "url": "{{ site.url }}",
+  "logo": "{{ site.url }}/assets/images/logos/transparant.png",
+  "image": "{{ site.url }}/assets/images/home.jpg",
+  "telephone": "+3250406680",
+  "email": "{{ site.email }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zeeweg 36",
+    "addressLocality": "Varsenare",
+    "addressRegion": "West-Vlaanderen",
+    "postalCode": "8490",
+    "addressCountry": "BE"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 51.18656106123788,
+    "longitude": 3.1473448925448255
+  },
+  "sameAs": [
+    "https://www.facebook.com/{{ site.facebook_username }}"
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Brugge"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "West-Vlaanderen"
+    }
+  ],
+  "keywords": "OOOC, De Zandberg, jeugdvoorziening, jeugdhulp, Brugge, Varsenare, crisisopvang, diagnostiek, observatiecentrum, oriëntatiecentrum, onthaalcentrum, kinderen, jongeren"
+}
+</script>

@@ -2,6 +2,7 @@
 layout: page
 title: Professionelen
 permalink: /professionelen/
+description: "Informatie voor professionelen en aanmelders bij OOOC De Zandberg: aanmeldingsprocedure, formulieren en leidraden voor doorverwijzing naar jeugdhulp in Brugge."
 ---
 
 <div class="page-with-sidebar">

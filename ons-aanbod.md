@@ -2,6 +2,7 @@
 layout: page
 title: Ons Aanbod
 permalink: /ons-aanbod/
+description: "Het hulpverleningsaanbod van OOOC De Zandberg: diagnostiek, crisisopvang en leefgroepwerking voor kinderen en jongeren in de jeugdhulp in Brugge en omstreken."
 ---
 
 Ontdek hieronder ons aanbod voor kinderen, jongeren en hun context:

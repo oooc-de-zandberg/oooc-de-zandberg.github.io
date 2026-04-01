@@ -3,6 +3,7 @@ layout: page
 title: Leefgroep 2
 permalink: /ons-aanbod/groep-2
 enable_lightbox: true
+description: "Leefgroep 2 van OOOC De Zandberg: begeleiding voor meisjes van 12 tot 21 jaar met residentiële opvang en ondersteuning in Varsenare bij Brugge."
 ---
 
 Heb je vragen over onze werking? We geven de meest gestelde vragen al eens op een rijtje. Tijdens het traject staat de begeleiding voor je klaar en kan je bij hen terecht voor verdere vragen!

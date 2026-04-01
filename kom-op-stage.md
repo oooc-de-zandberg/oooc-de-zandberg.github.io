@@ -2,6 +2,7 @@
 layout: page
 title: Kom op stage
 permalink: /werk-bij-ons/kom-op-stage/
+description: "Stage lopen bij OOOC De Zandberg in Brugge: stageplaatsen voor studenten in sociale, pedagogische en orthopedagogische richtingen in de jeugdhulp."
 ---
 
 ## Op zoek naar een leerrijke stageplaats in de jeugdhulp? Welkom bij ons team!

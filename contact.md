@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+description: "Contacteer OOOC De Zandberg: Zeeweg 36, 8490 Varsenare bij Brugge. Telefoon 050/40.66.80, e-mail info@zandberg.be. Bereikbaar met openbaar vervoer."
 ---
 
 <img src="/assets/images/contact.jpg" alt="Contact" class="highlight-image">
@@ -44,7 +45,7 @@ Ine Berlo<br/>
 
 **Voorzitter vzw:** Dhr. Yves Keppens
 
-# Bereikbaarheid?
+## Bereikbaarheid?
 
 De Zandberg is bereikbaar met het openbaar vervoer en er is parkeermogelijkheid op het domein zelf.
 
