@@ -26,9 +26,9 @@ Ine Berlo<br/>
 **Groep 1 (meisjes en jongens 0-12 jaar)**
 
 - Leefgroep: 050/40.66.83
-- Coördinator: Jasper Lowagie
+- Coördinator: Marte Saelens
   - Telefoon: 050/72.70.93
-  - Email: <jasper.lowagie@zandberg.be>
+  - Email: <marte.saelens@zandberg.be>
 
 **Groep 2 (meisjes 12-18 jaar)**
 
