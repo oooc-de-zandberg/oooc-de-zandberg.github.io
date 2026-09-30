@@ -15,7 +15,7 @@ Interesse? Stuur ons gerust een mailtje met wat meer info over jezelf, je opleid
 
 ### Groep 1 (jongens en meisjes; 0-11jaar):
 
-- stage in de leefgroep: <jasper.lowagie@zandberg.be>
+- stage in de leefgroep: <marte.saelens@zandberg.be>
 - stage in de psychologische dienst: <erika.meire@zandberg.be>
 - stage in de sociale dienst: <karlien.tanghe@zandberg.be>
 
